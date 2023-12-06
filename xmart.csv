@@ -1,0 +1,3112 @@
+Country,Year,Both sexes,Male,Female,Region
+Afghanistan,2016,245,272,216,Asia & Pacific
+Afghanistan,2015,233,254,210,Asia & Pacific
+Afghanistan,2014,234,254,213,Asia & Pacific
+Afghanistan,2013,235,254,215,Asia & Pacific
+Afghanistan,2012,242,262,221,Asia & Pacific
+Afghanistan,2011,248,268,227,Asia & Pacific
+Afghanistan,2010,255,275,233,Asia & Pacific
+Afghanistan,2009,260,281,238,Asia & Pacific
+Afghanistan,2008,265,286,243,Asia & Pacific
+Afghanistan,2007,273,294,250,Asia & Pacific
+Afghanistan,2006,276,296,254,Asia & Pacific
+Afghanistan,2005,277,296,258,Asia & Pacific
+Afghanistan,2004,282,300,263,Asia & Pacific
+Afghanistan,2003,286,304,268,Asia & Pacific
+Afghanistan,2002,292,309,275,Asia & Pacific
+Afghanistan,2001,307,330,283,Asia & Pacific
+Afghanistan,2000,316,340,290,Asia & Pacific
+Albania,2016,96,122,71,Europe
+Albania,2015,92,118,66,Europe
+Albania,2014,98,124,72,Europe
+Albania,2013,100,127,74,Europe
+Albania,2012,103,130,77,Europe
+Albania,2011,103,134,72,Europe
+Albania,2010,103,134,73,Europe
+Albania,2009,103,133,72,Europe
+Albania,2008,102,131,72,Europe
+Albania,2007,101,130,72,Europe
+Albania,2006,101,128,72,Europe
+Albania,2005,106,125,85,Europe
+Albania,2004,101,127,74,Europe
+Albania,2003,107,129,82,Europe
+Albania,2002,102,126,77,Europe
+Albania,2001,100,125,73,Europe
+Albania,2000,106,133,76,Europe
+Algeria,2016,95,106,84,Arab States
+Algeria,2015,96,108,85,Arab States
+Algeria,2014,98,109,86,Arab States
+Algeria,2013,100,111,88,Arab States
+Algeria,2012,101,113,89,Arab States
+Algeria,2011,103,115,91,Arab States
+Algeria,2010,104,116,92,Arab States
+Algeria,2009,107,119,94,Arab States
+Algeria,2008,108,121,96,Arab States
+Algeria,2007,111,124,98,Arab States
+Algeria,2006,115,128,101,Arab States
+Algeria,2005,119,133,105,Arab States
+Algeria,2004,125,141,109,Arab States
+Algeria,2003,133,150,115,Arab States
+Algeria,2002,135,152,117,Arab States
+Algeria,2001,139,156,121,Arab States
+Algeria,2000,142,160,124,Arab States
+Angola,2016,238,275,202,Africa
+Angola,2015,240,278,203,Africa
+Angola,2014,244,282,207,Africa
+Angola,2013,249,286,214,Africa
+Angola,2012,253,290,217,Africa
+Angola,2011,260,298,224,Africa
+Angola,2010,270,307,233,Africa
+Angola,2009,281,319,245,Africa
+Angola,2008,292,329,256,Africa
+Angola,2007,303,340,267,Africa
+Angola,2006,314,350,279,Africa
+Angola,2005,323,358,288,Africa
+Angola,2004,334,370,299,Africa
+Angola,2003,343,379,308,Africa
+Angola,2002,355,391,319,Africa
+Angola,2001,372,412,333,Africa
+Angola,2000,384,423,345,Africa
+Antigua and Barbuda,2016,120,137,104,Latin America
+Antigua and Barbuda,2015,122,140,105,Latin America
+Antigua and Barbuda,2014,127,144,111,Latin America
+Antigua and Barbuda,2013,127,146,109,Latin America
+Antigua and Barbuda,2012,127,151,104,Latin America
+Antigua and Barbuda,2011,128,157,100,Latin America
+Antigua and Barbuda,2010,135,165,105,Latin America
+Antigua and Barbuda,2009,138,168,110,Latin America
+Antigua and Barbuda,2008,147,172,122,Latin America
+Antigua and Barbuda,2007,149,173,125,Latin America
+Antigua and Barbuda,2006,155,181,129,Latin America
+Antigua and Barbuda,2005,156,187,125,Latin America
+Antigua and Barbuda,2004,153,181,125,Latin America
+Antigua and Barbuda,2003,151,176,127,Latin America
+Antigua and Barbuda,2002,149,171,128,Latin America
+Antigua and Barbuda,2001,154,179,131,Latin America
+Antigua and Barbuda,2000,157,183,132,Latin America
+Argentina,2016,111,143,80,Latin America
+Argentina,2015,113,145,80,Latin America
+Argentina,2014,113,145,80,Latin America
+Argentina,2013,116,151,82,Latin America
+Argentina,2012,118,152,83,Latin America
+Argentina,2011,118,152,84,Latin America
+Argentina,2010,119,153,85,Latin America
+Argentina,2009,123,158,88,Latin America
+Argentina,2008,123,162,86,Latin America
+Argentina,2007,126,165,88,Latin America
+Argentina,2006,124,162,86,Latin America
+Argentina,2005,125,163,87,Latin America
+Argentina,2004,128,166,90,Latin America
+Argentina,2003,134,176,93,Latin America
+Argentina,2002,137,182,92,Latin America
+Argentina,2001,138,181,94,Latin America
+Argentina,2000,139,183,94,Latin America
+Armenia,2016,116,176,65,Europe
+Armenia,2015,121,182,69,Europe
+Armenia,2014,118,180,66,Europe
+Armenia,2013,121,181,69,Europe
+Armenia,2012,131,194,75,Europe
+Armenia,2011,135,202,77,Europe
+Armenia,2010,138,203,81,Europe
+Armenia,2009,142,211,82,Europe
+Armenia,2008,144,211,86,Europe
+Armenia,2007,137,201,80,Europe
+Armenia,2006,145,211,86,Europe
+Armenia,2005,140,202,85,Europe
+Armenia,2004,135,194,84,Europe
+Armenia,2003,137,194,86,Europe
+Armenia,2002,137,197,84,Europe
+Armenia,2001,143,202,92,Europe
+Armenia,2000,143,204,91,Europe
+Australia,2016,61,77,45,Asia & Pacific
+Australia,2015,62,79,46,Asia & Pacific
+Australia,2014,61,77,45,Asia & Pacific
+Australia,2013,60,75,45,Asia & Pacific
+Australia,2012,60,75,44,Asia & Pacific
+Australia,2011,62,78,46,Asia & Pacific
+Australia,2010,63,80,46,Asia & Pacific
+Australia,2009,65,81,48,Asia & Pacific
+Australia,2008,64,82,47,Asia & Pacific
+Australia,2007,65,82,48,Asia & Pacific
+Australia,2006,65,82,47,Asia & Pacific
+Australia,2005,68,86,50,Asia & Pacific
+Australia,2004,67,85,49,Asia & Pacific
+Australia,2003,69,88,50,Asia & Pacific
+Australia,2002,72,90,53,Asia & Pacific
+Australia,2001,74,93,53,Asia & Pacific
+Australia,2000,77,97,56,Asia & Pacific
+Austria,2016,62,80,44,Europe
+Austria,2015,64,84,44,Europe
+Austria,2014,65,84,45,Europe
+Austria,2013,67,88,45,Europe
+Austria,2012,68,90,46,Europe
+Austria,2011,72,94,49,Europe
+Austria,2010,74,100,49,Europe
+Austria,2009,77,103,50,Europe
+Austria,2008,76,101,51,Europe
+Austria,2007,80,106,53,Europe
+Austria,2006,80,108,53,Europe
+Austria,2005,84,112,55,Europe
+Austria,2004,84,113,54,Europe
+Austria,2003,86,113,58,Europe
+Austria,2002,87,117,57,Europe
+Austria,2001,90,119,59,Europe
+Austria,2000,94,124,62,Europe
+Azerbaijan,2016,118,160,76,Europe
+Azerbaijan,2015,120,163,78,Europe
+Azerbaijan,2014,121,165,79,Europe
+Azerbaijan,2013,124,168,81,Europe
+Azerbaijan,2012,126,171,83,Europe
+Azerbaijan,2011,129,176,84,Europe
+Azerbaijan,2010,132,177,88,Europe
+Azerbaijan,2009,133,177,90,Europe
+Azerbaijan,2008,142,191,94,Europe
+Azerbaijan,2007,141,187,95,Europe
+Azerbaijan,2006,153,207,100,Europe
+Azerbaijan,2005,160,215,106,Europe
+Azerbaijan,2004,151,202,102,Europe
+Azerbaijan,2003,151,199,104,Europe
+Azerbaijan,2002,144,190,98,Europe
+Azerbaijan,2001,149,199,102,Europe
+Azerbaijan,2000,161,217,107,Europe
+Bahamas,2016,159,199,120,Latin America
+Bahamas,2015,161,202,119,Latin America
+Bahamas,2014,168,209,127,Latin America
+Bahamas,2013,166,207,126,Latin America
+Bahamas,2012,163,203,123,Latin America
+Bahamas,2011,158,198,119,Latin America
+Bahamas,2010,159,205,113,Latin America
+Bahamas,2009,166,216,117,Latin America
+Bahamas,2008,168,217,119,Latin America
+Bahamas,2007,171,220,122,Latin America
+Bahamas,2006,177,224,130,Latin America
+Bahamas,2005,180,228,133,Latin America
+Bahamas,2004,187,236,138,Latin America
+Bahamas,2003,203,255,152,Latin America
+Bahamas,2002,206,258,154,Latin America
+Bahamas,2001,204,257,152,Latin America
+Bahamas,2000,202,255,150,Latin America
+Bahrain,2016,57,61,50,Arab States
+Bahrain,2015,59,63,51,Arab States
+Bahrain,2014,62,68,50,Arab States
+Bahrain,2013,63,68,53,Arab States
+Bahrain,2012,66,68,61,Arab States
+Bahrain,2011,66,68,62,Arab States
+Bahrain,2010,66,67,65,Arab States
+Bahrain,2009,69,74,60,Arab States
+Bahrain,2008,73,79,62,Arab States
+Bahrain,2007,80,92,59,Arab States
+Bahrain,2006,89,96,75,Arab States
+Bahrain,2005,83,92,68,Arab States
+Bahrain,2004,94,102,80,Arab States
+Bahrain,2003,92,96,85,Arab States
+Bahrain,2002,99,113,76,Arab States
+Bahrain,2001,98,109,81,Arab States
+Bahrain,2000,101,112,81,Arab States
+Bangladesh,2016,130,150,110,Asia & Pacific
+Bangladesh,2015,133,152,113,Asia & Pacific
+Bangladesh,2014,136,155,116,Asia & Pacific
+Bangladesh,2013,138,156,118,Asia & Pacific
+Bangladesh,2012,140,158,120,Asia & Pacific
+Bangladesh,2011,141,159,123,Asia & Pacific
+Bangladesh,2010,143,160,125,Asia & Pacific
+Bangladesh,2009,145,161,127,Asia & Pacific
+Bangladesh,2008,147,163,130,Asia & Pacific
+Bangladesh,2007,150,166,133,Asia & Pacific
+Bangladesh,2006,151,166,136,Asia & Pacific
+Bangladesh,2005,154,167,141,Asia & Pacific
+Bangladesh,2004,158,169,146,Asia & Pacific
+Bangladesh,2003,161,171,150,Asia & Pacific
+Bangladesh,2002,164,172,155,Asia & Pacific
+Bangladesh,2001,168,174,161,Asia & Pacific
+Bangladesh,2000,173,177,169,Asia & Pacific
+Barbados,2016,100,129,74,Latin America
+Barbados,2015,101,129,75,Latin America
+Barbados,2014,101,128,75,Latin America
+Barbados,2013,101,129,76,Latin America
+Barbados,2012,108,141,78,Latin America
+Barbados,2011,106,134,79,Latin America
+Barbados,2010,108,137,81,Latin America
+Barbados,2009,110,138,84,Latin America
+Barbados,2008,112,140,86,Latin America
+Barbados,2007,112,139,87,Latin America
+Barbados,2006,113,139,88,Latin America
+Barbados,2005,114,140,89,Latin America
+Barbados,2004,116,143,90,Latin America
+Barbados,2003,123,153,95,Latin America
+Barbados,2002,126,157,97,Latin America
+Barbados,2001,127,157,99,Latin America
+Barbados,2000,128,159,100,Latin America
+Belarus,2016,161,241,82,Europe
+Belarus,2015,163,246,82,Europe
+Belarus,2014,175,261,90,Europe
+Belarus,2013,183,273,95,Europe
+Belarus,2012,192,287,97,Europe
+Belarus,2011,227,338,115,Europe
+Belarus,2010,226,336,113,Europe
+Belarus,2009,225,334,115,Europe
+Belarus,2008,228,340,114,Europe
+Belarus,2007,230,339,119,Europe
+Belarus,2006,246,362,125,Europe
+Belarus,2005,255,373,130,Europe
+Belarus,2004,249,364,129,Europe
+Belarus,2003,254,372,130,Europe
+Belarus,2002,264,383,137,Europe
+Belarus,2001,255,372,131,Europe
+Belarus,2000,247,361,128,Europe
+Belgium,2016,72,89,54,Europe
+Belgium,2015,72,89,54,Europe
+Belgium,2014,73,91,54,Europe
+Belgium,2013,77,95,58,Europe
+Belgium,2012,79,100,58,Europe
+Belgium,2011,81,101,60,Europe
+Belgium,2010,81,102,59,Europe
+Belgium,2009,84,107,61,Europe
+Belgium,2008,86,110,61,Europe
+Belgium,2007,86,108,62,Europe
+Belgium,2006,85,109,60,Europe
+Belgium,2005,88,114,61,Europe
+Belgium,2004,89,116,62,Europe
+Belgium,2003,94,121,65,Europe
+Belgium,2002,97,126,67,Europe
+Belgium,2001,98,128,68,Europe
+Belgium,2000,99,130,68,Europe
+Belize,2016,179,225,132,Latin America
+Belize,2015,182,226,135,Latin America
+Belize,2014,183,226,137,Latin America
+Belize,2013,184,227,138,Latin America
+Belize,2012,183,227,136,Latin America
+Belize,2011,182,226,136,Latin America
+Belize,2010,182,225,136,Latin America
+Belize,2009,183,225,138,Latin America
+Belize,2008,183,224,138,Latin America
+Belize,2007,181,222,138,Latin America
+Belize,2006,185,227,139,Latin America
+Belize,2005,190,235,143,Latin America
+Belize,2004,195,241,144,Latin America
+Belize,2003,199,248,147,Latin America
+Belize,2002,200,248,148,Latin America
+Belize,2001,203,252,152,Latin America
+Belize,2000,198,245,149,Latin America
+Benin,2016,242,265,220,Africa
+Benin,2015,246,269,224,Africa
+Benin,2014,248,272,226,Africa
+Benin,2013,250,273,227,Africa
+Benin,2012,252,276,228,Africa
+Benin,2011,254,279,230,Africa
+Benin,2010,257,282,232,Africa
+Benin,2009,261,287,237,Africa
+Benin,2008,276,301,252,Africa
+Benin,2007,281,306,257,Africa
+Benin,2006,282,308,258,Africa
+Benin,2005,284,310,259,Africa
+Benin,2004,285,311,260,Africa
+Benin,2003,285,312,259,Africa
+Benin,2002,284,312,257,Africa
+Benin,2001,283,312,256,Africa
+Benin,2000,282,313,254,Africa
+Bhutan,2016,207,205,209,Asia & Pacific
+Bhutan,2015,211,208,215,Asia & Pacific
+Bhutan,2014,215,211,220,Asia & Pacific
+Bhutan,2013,219,214,224,Asia & Pacific
+Bhutan,2012,222,217,228,Asia & Pacific
+Bhutan,2011,225,221,230,Asia & Pacific
+Bhutan,2010,228,224,232,Asia & Pacific
+Bhutan,2009,232,229,235,Asia & Pacific
+Bhutan,2008,235,232,237,Asia & Pacific
+Bhutan,2007,239,237,241,Asia & Pacific
+Bhutan,2006,246,244,248,Asia & Pacific
+Bhutan,2005,254,251,256,Asia & Pacific
+Bhutan,2004,264,263,266,Asia & Pacific
+Bhutan,2003,271,268,275,Asia & Pacific
+Bhutan,2002,279,276,283,Asia & Pacific
+Bhutan,2001,287,284,291,Asia & Pacific
+Bhutan,2000,309,308,310,Asia & Pacific
+Bolivia (Plurinational State of),2016,182,214,150,Latin America
+Bolivia (Plurinational State of),2015,185,216,153,Latin America
+Bolivia (Plurinational State of),2014,188,219,157,Latin America
+Bolivia (Plurinational State of),2013,192,222,160,Latin America
+Bolivia (Plurinational State of),2012,195,225,164,Latin America
+Bolivia (Plurinational State of),2011,198,229,167,Latin America
+Bolivia (Plurinational State of),2010,202,233,171,Latin America
+Bolivia (Plurinational State of),2009,207,238,175,Latin America
+Bolivia (Plurinational State of),2008,211,243,178,Latin America
+Bolivia (Plurinational State of),2007,215,248,182,Latin America
+Bolivia (Plurinational State of),2006,219,251,186,Latin America
+Bolivia (Plurinational State of),2005,222,254,189,Latin America
+Bolivia (Plurinational State of),2004,226,258,193,Latin America
+Bolivia (Plurinational State of),2003,230,262,197,Latin America
+Bolivia (Plurinational State of),2002,234,266,201,Latin America
+Bolivia (Plurinational State of),2001,238,269,205,Latin America
+Bolivia (Plurinational State of),2000,243,274,210,Latin America
+Bosnia and Herzegovina,2016,92,120,63,Europe
+Bosnia and Herzegovina,2015,94,123,64,Europe
+Bosnia and Herzegovina,2014,96,126,65,Europe
+Bosnia and Herzegovina,2013,97,128,65,Europe
+Bosnia and Herzegovina,2012,98,131,65,Europe
+Bosnia and Herzegovina,2011,100,133,66,Europe
+Bosnia and Herzegovina,2010,101,134,67,Europe
+Bosnia and Herzegovina,2009,104,140,68,Europe
+Bosnia and Herzegovina,2008,105,142,68,Europe
+Bosnia and Herzegovina,2007,114,153,74,Europe
+Bosnia and Herzegovina,2006,109,146,71,Europe
+Bosnia and Herzegovina,2005,112,153,71,Europe
+Bosnia and Herzegovina,2004,108,144,73,Europe
+Bosnia and Herzegovina,2003,113,152,73,Europe
+Bosnia and Herzegovina,2002,111,150,74,Europe
+Bosnia and Herzegovina,2001,125,169,81,Europe
+Bosnia and Herzegovina,2000,128,170,87,Europe
+Botswana,2016,249,294,208,Africa
+Botswana,2015,263,316,214,Africa
+Botswana,2014,277,337,220,Africa
+Botswana,2013,291,357,228,Africa
+Botswana,2012,302,357,249,Africa
+Botswana,2011,319,372,269,Africa
+Botswana,2010,331,386,280,Africa
+Botswana,2009,354,395,318,Africa
+Botswana,2008,396,430,367,Africa
+Botswana,2007,422,456,393,Africa
+Botswana,2006,471,505,441,Africa
+Botswana,2005,535,570,506,Africa
+Botswana,2004,607,639,579,Africa
+Botswana,2003,641,673,613,Africa
+Botswana,2002,645,678,615,Africa
+Botswana,2001,628,663,595,Africa
+Botswana,2000,601,640,565,Africa
+Brazil,2016,143,194,91,Latin America
+Brazil,2015,145,196,93,Latin America
+Brazil,2014,145,196,93,Latin America
+Brazil,2013,148,200,96,Latin America
+Brazil,2012,150,203,97,Latin America
+Brazil,2011,153,206,100,Latin America
+Brazil,2010,154,208,100,Latin America
+Brazil,2009,156,210,102,Latin America
+Brazil,2008,157,211,102,Latin America
+Brazil,2007,158,212,103,Latin America
+Brazil,2006,160,214,105,Latin America
+Brazil,2005,162,218,106,Latin America
+Brazil,2004,169,227,111,Latin America
+Brazil,2003,172,230,113,Latin America
+Brazil,2002,176,235,116,Latin America
+Brazil,2001,180,240,119,Latin America
+Brazil,2000,184,244,122,Latin America
+Brunei Darussalam,2016,98,111,83,Asia & Pacific
+Brunei Darussalam,2015,99,112,85,Asia & Pacific
+Brunei Darussalam,2014,96,111,80,Asia & Pacific
+Brunei Darussalam,2013,94,110,77,Asia & Pacific
+Brunei Darussalam,2012,92,108,74,Asia & Pacific
+Brunei Darussalam,2011,91,107,74,Asia & Pacific
+Brunei Darussalam,2010,91,108,73,Asia & Pacific
+Brunei Darussalam,2009,93,109,75,Asia & Pacific
+Brunei Darussalam,2008,94,111,76,Asia & Pacific
+Brunei Darussalam,2007,96,113,77,Asia & Pacific
+Brunei Darussalam,2006,94,110,77,Asia & Pacific
+Brunei Darussalam,2005,92,106,76,Asia & Pacific
+Brunei Darussalam,2004,89,102,76,Asia & Pacific
+Brunei Darussalam,2003,91,106,74,Asia & Pacific
+Brunei Darussalam,2002,95,112,77,Asia & Pacific
+Brunei Darussalam,2001,101,120,80,Asia & Pacific
+Brunei Darussalam,2000,105,124,85,Asia & Pacific
+Bulgaria,2016,135,183,85,Europe
+Bulgaria,2015,136,185,85,Europe
+Bulgaria,2014,141,191,88,Europe
+Bulgaria,2013,135,185,82,Europe
+Bulgaria,2012,137,189,82,Europe
+Bulgaria,2011,141,194,86,Europe
+Bulgaria,2010,143,197,88,Europe
+Bulgaria,2009,147,205,88,Europe
+Bulgaria,2008,150,209,89,Europe
+Bulgaria,2007,153,212,91,Europe
+Bulgaria,2006,157,218,93,Europe
+Bulgaria,2005,156,219,92,Europe
+Bulgaria,2004,154,215,92,Europe
+Bulgaria,2003,154,215,91,Europe
+Bulgaria,2002,156,218,94,Europe
+Bulgaria,2001,159,223,95,Europe
+Bulgaria,2000,163,225,99,Europe
+Burkina Faso,2016,255,273,239,Africa
+Burkina Faso,2015,260,279,244,Africa
+Burkina Faso,2014,264,284,248,Africa
+Burkina Faso,2013,266,286,250,Africa
+Burkina Faso,2012,267,287,252,Africa
+Burkina Faso,2011,272,290,259,Africa
+Burkina Faso,2010,277,295,263,Africa
+Burkina Faso,2009,282,300,269,Africa
+Burkina Faso,2008,289,306,275,Africa
+Burkina Faso,2007,294,313,281,Africa
+Burkina Faso,2006,303,321,290,Africa
+Burkina Faso,2005,314,331,301,Africa
+Burkina Faso,2004,323,340,310,Africa
+Burkina Faso,2003,330,348,318,Africa
+Burkina Faso,2002,335,353,322,Africa
+Burkina Faso,2001,339,358,325,Africa
+Burkina Faso,2000,342,363,326,Africa
+Burundi,2016,290,320,260,Africa
+Burundi,2015,296,328,264,Africa
+Burundi,2014,300,333,267,Africa
+Burundi,2013,302,333,272,Africa
+Burundi,2012,308,335,280,Africa
+Burundi,2011,315,341,288,Africa
+Burundi,2010,323,347,298,Africa
+Burundi,2009,330,353,307,Africa
+Burundi,2008,340,365,316,Africa
+Burundi,2007,345,369,320,Africa
+Burundi,2006,350,377,323,Africa
+Burundi,2005,357,387,327,Africa
+Burundi,2004,364,395,332,Africa
+Burundi,2003,370,406,333,Africa
+Burundi,2002,369,407,330,Africa
+Burundi,2001,365,403,328,Africa
+Burundi,2000,370,412,328,Africa
+Cabo Verde,2016,122,146,100,Africa
+Cabo Verde,2015,124,147,101,Africa
+Cabo Verde,2014,126,150,104,Africa
+Cabo Verde,2013,129,154,107,Africa
+Cabo Verde,2012,133,157,111,Africa
+Cabo Verde,2011,136,158,115,Africa
+Cabo Verde,2010,138,161,118,Africa
+Cabo Verde,2009,139,163,119,Africa
+Cabo Verde,2008,142,166,122,Africa
+Cabo Verde,2007,146,170,126,Africa
+Cabo Verde,2006,150,175,130,Africa
+Cabo Verde,2005,157,181,138,Africa
+Cabo Verde,2004,159,183,140,Africa
+Cabo Verde,2003,160,185,141,Africa
+Cabo Verde,2002,162,186,143,Africa
+Cabo Verde,2001,164,189,146,Africa
+Cabo Verde,2000,167,192,149,Africa
+Cambodia,2016,170,205,140,Asia & Pacific
+Cambodia,2015,174,208,145,Asia & Pacific
+Cambodia,2014,178,212,149,Asia & Pacific
+Cambodia,2013,183,216,154,Asia & Pacific
+Cambodia,2012,186,219,157,Asia & Pacific
+Cambodia,2011,191,225,162,Asia & Pacific
+Cambodia,2010,196,231,167,Asia & Pacific
+Cambodia,2009,203,238,173,Asia & Pacific
+Cambodia,2008,211,247,180,Asia & Pacific
+Cambodia,2007,221,258,189,Asia & Pacific
+Cambodia,2006,234,274,201,Asia & Pacific
+Cambodia,2005,249,292,213,Asia & Pacific
+Cambodia,2004,262,307,223,Asia & Pacific
+Cambodia,2003,270,316,230,Asia & Pacific
+Cambodia,2002,274,321,234,Asia & Pacific
+Cambodia,2001,277,323,237,Asia & Pacific
+Cambodia,2000,280,324,241,Asia & Pacific
+Cameroon,2016,341,362,321,Africa
+Cameroon,2015,355,378,332,Africa
+Cameroon,2014,358,384,332,Africa
+Cameroon,2013,352,380,324,Africa
+Cameroon,2012,352,368,337,Africa
+Cameroon,2011,354,368,342,Africa
+Cameroon,2010,355,367,343,Africa
+Cameroon,2009,358,370,347,Africa
+Cameroon,2008,365,377,354,Africa
+Cameroon,2007,376,387,366,Africa
+Cameroon,2006,379,391,368,Africa
+Cameroon,2005,389,401,378,Africa
+Cameroon,2004,404,415,393,Africa
+Cameroon,2003,408,420,397,Africa
+Cameroon,2002,409,422,397,Africa
+Cameroon,2001,411,425,397,Africa
+Cameroon,2000,412,427,398,Africa
+Canada,2016,63,76,49,North America
+Canada,2015,64,78,50,North America
+Canada,2014,65,79,50,North America
+Canada,2013,66,81,51,North America
+Canada,2012,68,82,52,North America
+Canada,2011,67,81,52,North America
+Canada,2010,69,85,52,North America
+Canada,2009,71,88,54,North America
+Canada,2008,73,90,56,North America
+Canada,2007,74,92,55,North America
+Canada,2006,74,92,56,North America
+Canada,2005,76,94,57,North America
+Canada,2004,76,94,57,North America
+Canada,2003,77,96,58,North America
+Canada,2002,78,96,59,North America
+Canada,2001,79,99,59,North America
+Canada,2000,81,100,61,North America
+Latin African Republic,2016,412,431,394,Africa
+Latin African Republic,2015,418,428,409,Africa
+Latin African Republic,2014,444,453,435,Africa
+Latin African Republic,2013,467,487,447,Africa
+Latin African Republic,2012,445,451,440,Africa
+Latin African Republic,2011,450,458,443,Africa
+Latin African Republic,2010,458,468,449,Africa
+Latin African Republic,2009,470,484,457,Africa
+Latin African Republic,2008,495,507,484,Africa
+Latin African Republic,2007,516,525,507,Africa
+Latin African Republic,2006,530,539,522,Africa
+Latin African Republic,2005,539,546,533,Africa
+Latin African Republic,2004,545,552,539,Africa
+Latin African Republic,2003,547,554,540,Africa
+Latin African Republic,2002,547,557,539,Africa
+Latin African Republic,2001,544,556,533,Africa
+Latin African Republic,2000,531,543,520,Africa
+Chad,2016,360,381,338,Africa
+Chad,2015,367,390,344,Africa
+Chad,2014,374,399,350,Africa
+Chad,2013,370,390,350,Africa
+Chad,2012,371,390,352,Africa
+Chad,2011,370,389,352,Africa
+Chad,2010,373,391,357,Africa
+Chad,2009,380,396,365,Africa
+Chad,2008,400,418,383,Africa
+Chad,2007,400,415,387,Africa
+Chad,2006,419,440,399,Africa
+Chad,2005,412,428,398,Africa
+Chad,2004,413,428,398,Africa
+Chad,2003,412,427,397,Africa
+Chad,2002,412,430,395,Africa
+Chad,2001,409,428,391,Africa
+Chad,2000,413,437,388,Africa
+Chile,2016,87,114,60,Latin America
+Chile,2015,88,115,60,Latin America
+Chile,2014,88,116,60,Latin America
+Chile,2013,90,117,62,Latin America
+Chile,2012,89,116,61,Latin America
+Chile,2011,90,118,62,Latin America
+Chile,2010,94,123,64,Latin America
+Chile,2009,94,125,63,Latin America
+Chile,2008,91,121,61,Latin America
+Chile,2007,93,121,64,Latin America
+Chile,2006,93,122,64,Latin America
+Chile,2005,95,125,64,Latin America
+Chile,2004,98,130,66,Latin America
+Chile,2003,100,133,68,Latin America
+Chile,2002,100,133,67,Latin America
+Chile,2001,106,140,71,Latin America
+Chile,2000,103,137,69,Latin America
+China,2016,80,93,67,Asia & Pacific
+China,2015,82,94,68,Asia & Pacific
+China,2014,83,95,69,Asia & Pacific
+China,2013,84,97,70,Asia & Pacific
+China,2012,85,98,71,Asia & Pacific
+China,2011,86,99,73,Asia & Pacific
+China,2010,88,101,74,Asia & Pacific
+China,2009,89,103,75,Asia & Pacific
+China,2008,93,106,78,Asia & Pacific
+China,2007,92,105,78,Asia & Pacific
+China,2006,93,107,80,Asia & Pacific
+China,2005,95,108,81,Asia & Pacific
+China,2004,97,109,83,Asia & Pacific
+China,2003,99,111,86,Asia & Pacific
+China,2002,101,113,88,Asia & Pacific
+China,2001,105,119,90,Asia & Pacific
+China,2000,110,126,93,Asia & Pacific
+Colombia,2016,137,182,92,Latin America
+Colombia,2015,138,183,92,Latin America
+Colombia,2014,139,185,92,Latin America
+Colombia,2013,139,185,93,Latin America
+Colombia,2012,140,186,93,Latin America
+Colombia,2011,140,187,92,Latin America
+Colombia,2010,146,195,95,Latin America
+Colombia,2009,147,198,95,Latin America
+Colombia,2008,142,191,93,Latin America
+Colombia,2007,141,189,92,Latin America
+Colombia,2006,146,196,94,Latin America
+Colombia,2005,144,194,94,Latin America
+Colombia,2004,152,206,97,Latin America
+Colombia,2003,155,209,100,Latin America
+Colombia,2002,169,234,101,Latin America
+Colombia,2001,170,235,103,Latin America
+Colombia,2000,171,237,104,Latin America
+Comoros,2016,225,250,199,Arab States
+Comoros,2015,227,252,202,Arab States
+Comoros,2014,230,255,205,Arab States
+Comoros,2013,233,258,208,Arab States
+Comoros,2012,236,261,211,Arab States
+Comoros,2011,241,265,215,Arab States
+Comoros,2010,245,270,220,Arab States
+Comoros,2009,251,276,225,Arab States
+Comoros,2008,255,280,229,Arab States
+Comoros,2007,259,284,233,Arab States
+Comoros,2006,262,288,236,Arab States
+Comoros,2005,266,292,239,Arab States
+Comoros,2004,269,295,242,Arab States
+Comoros,2003,271,297,244,Arab States
+Comoros,2002,271,298,245,Arab States
+Comoros,2001,272,298,245,Arab States
+Comoros,2000,272,298,246,Arab States
+Congo,2016,261,281,239,Africa
+Congo,2015,275,294,256,Africa
+Congo,2014,279,299,258,Africa
+Congo,2013,278,302,254,Africa
+Congo,2012,281,302,260,Africa
+Congo,2011,291,305,277,Africa
+Congo,2010,300,314,286,Africa
+Congo,2009,310,325,296,Africa
+Congo,2008,334,347,322,Africa
+Congo,2007,351,363,340,Africa
+Congo,2006,366,378,355,Africa
+Congo,2005,392,402,382,Africa
+Congo,2004,407,417,398,Africa
+Congo,2003,418,427,408,Africa
+Congo,2002,425,438,412,Africa
+Congo,2001,420,433,408,Africa
+Congo,2000,417,432,402,Africa
+Costa Rica,2016,97,126,66,Latin America
+Costa Rica,2015,97,127,67,Latin America
+Costa Rica,2014,95,125,65,Latin America
+Costa Rica,2013,97,126,68,Latin America
+Costa Rica,2012,99,128,69,Latin America
+Costa Rica,2011,100,129,69,Latin America
+Costa Rica,2010,106,139,73,Latin America
+Costa Rica,2009,96,124,67,Latin America
+Costa Rica,2008,97,128,65,Latin America
+Costa Rica,2007,91,121,61,Latin America
+Costa Rica,2006,104,133,74,Latin America
+Costa Rica,2005,96,122,69,Latin America
+Costa Rica,2004,102,133,70,Latin America
+Costa Rica,2003,101,130,71,Latin America
+Costa Rica,2002,100,128,70,Latin America
+Costa Rica,2001,101,129,73,Latin America
+Costa Rica,2000,100,129,70,Latin America
+Côte d'Ivoire,2016,398,417,376,Africa
+Côte d'Ivoire,2015,410,428,389,Africa
+Côte d'Ivoire,2014,418,435,398,Africa
+Côte d'Ivoire,2013,418,434,399,Africa
+Côte d'Ivoire,2012,416,430,399,Africa
+Côte d'Ivoire,2011,409,424,391,Africa
+Côte d'Ivoire,2010,415,428,399,Africa
+Côte d'Ivoire,2009,424,435,409,Africa
+Côte d'Ivoire,2008,423,436,405,Africa
+Côte d'Ivoire,2007,437,449,420,Africa
+Côte d'Ivoire,2006,444,458,426,Africa
+Côte d'Ivoire,2005,459,473,440,Africa
+Côte d'Ivoire,2004,475,489,456,Africa
+Côte d'Ivoire,2003,478,493,456,Africa
+Côte d'Ivoire,2002,477,495,452,Africa
+Côte d'Ivoire,2001,469,485,446,Africa
+Côte d'Ivoire,2000,461,475,440,Africa
+Croatia,2016,88,124,51,Europe
+Croatia,2015,96,132,59,Europe
+Croatia,2014,94,130,57,Europe
+Croatia,2013,96,132,59,Europe
+Croatia,2012,103,144,60,Europe
+Croatia,2011,103,144,62,Europe
+Croatia,2010,106,147,63,Europe
+Croatia,2009,109,156,61,Europe
+Croatia,2008,117,167,66,Europe
+Croatia,2007,115,163,66,Europe
+Croatia,2006,114,163,64,Europe
+Croatia,2005,116,166,65,Europe
+Croatia,2004,113,159,66,Europe
+Croatia,2003,121,171,70,Europe
+Croatia,2002,124,176,71,Europe
+Croatia,2001,129,183,73,Europe
+Croatia,2000,133,188,77,Europe
+Cuba,2016,92,116,68,Latin America
+Cuba,2015,94,118,70,Latin America
+Cuba,2014,95,119,71,Latin America
+Cuba,2013,96,118,72,Latin America
+Cuba,2012,96,118,73,Latin America
+Cuba,2011,92,112,71,Latin America
+Cuba,2010,97,119,76,Latin America
+Cuba,2009,99,120,77,Latin America
+Cuba,2008,100,119,81,Latin America
+Cuba,2007,102,122,80,Latin America
+Cuba,2006,103,124,81,Latin America
+Cuba,2005,110,131,88,Latin America
+Cuba,2004,109,130,88,Latin America
+Cuba,2003,112,132,91,Latin America
+Cuba,2002,112,133,90,Latin America
+Cuba,2001,119,141,97,Latin America
+Cuba,2000,121,144,97,Latin America
+Cyprus,2016,55,73,37,Europe
+Cyprus,2015,57,75,38,Europe
+Cyprus,2014,61,79,44,Europe
+Cyprus,2013,58,81,35,Europe
+Cyprus,2012,55,73,36,Europe
+Cyprus,2011,58,74,42,Europe
+Cyprus,2010,65,87,43,Europe
+Cyprus,2009,68,93,42,Europe
+Cyprus,2008,68,87,48,Europe
+Cyprus,2007,70,98,41,Europe
+Cyprus,2006,64,81,47,Europe
+Cyprus,2005,75,97,52,Europe
+Cyprus,2004,74,99,48,Europe
+Cyprus,2003,69,88,50,Europe
+Cyprus,2002,71,94,48,Europe
+Cyprus,2001,70,96,43,Europe
+Cyprus,2000,80,102,56,Europe
+Czechia,2016,81,108,53,Europe
+Czechia,2015,83,112,53,Europe
+Czechia,2014,85,115,53,Europe
+Czechia,2013,89,121,57,Europe
+Czechia,2012,93,126,58,Europe
+Czechia,2011,96,132,59,Europe
+Czechia,2010,98,135,60,Europe
+Czechia,2009,101,138,62,Europe
+Czechia,2008,105,143,65,Europe
+Czechia,2007,106,146,65,Europe
+Czechia,2006,108,148,67,Europe
+Czechia,2005,113,156,70,Europe
+Czechia,2004,115,160,68,Europe
+Czechia,2003,121,167,74,Europe
+Czechia,2002,119,165,72,Europe
+Czechia,2001,121,167,75,Europe
+Czechia,2000,124,172,76,Europe
+Democratic People's Republic of Korea,2016,132,166,98,Asia & Pacific
+Democratic People's Republic of Korea,2015,134,168,99,Asia & Pacific
+Democratic People's Republic of Korea,2014,136,170,101,Asia & Pacific
+Democratic People's Republic of Korea,2013,139,173,104,Asia & Pacific
+Democratic People's Republic of Korea,2012,142,177,106,Asia & Pacific
+Democratic People's Republic of Korea,2011,147,183,111,Asia & Pacific
+Democratic People's Republic of Korea,2010,154,191,117,Asia & Pacific
+Democratic People's Republic of Korea,2009,160,198,123,Asia & Pacific
+Democratic People's Republic of Korea,2008,165,203,127,Asia & Pacific
+Democratic People's Republic of Korea,2007,166,205,129,Asia & Pacific
+Democratic People's Republic of Korea,2006,166,205,128,Asia & Pacific
+Democratic People's Republic of Korea,2005,166,205,128,Asia & Pacific
+Democratic People's Republic of Korea,2004,166,204,127,Asia & Pacific
+Democratic People's Republic of Korea,2003,166,205,127,Asia & Pacific
+Democratic People's Republic of Korea,2002,167,207,128,Asia & Pacific
+Democratic People's Republic of Korea,2001,177,221,133,Asia & Pacific
+Democratic People's Republic of Korea,2000,191,243,140,Asia & Pacific
+Democratic Republic of the Congo,2016,256,281,232,Africa
+Democratic Republic of the Congo,2015,260,285,236,Africa
+Democratic Republic of the Congo,2014,265,290,240,Africa
+Democratic Republic of the Congo,2013,272,297,247,Africa
+Democratic Republic of the Congo,2012,276,301,252,Africa
+Democratic Republic of the Congo,2011,278,301,256,Africa
+Democratic Republic of the Congo,2010,283,306,260,Africa
+Democratic Republic of the Congo,2009,291,316,267,Africa
+Democratic Republic of the Congo,2008,295,320,269,Africa
+Democratic Republic of the Congo,2007,299,325,273,Africa
+Democratic Republic of the Congo,2006,307,333,281,Africa
+Democratic Republic of the Congo,2005,315,341,290,Africa
+Democratic Republic of the Congo,2004,324,350,299,Africa
+Democratic Republic of the Congo,2003,333,360,307,Africa
+Democratic Republic of the Congo,2002,341,370,313,Africa
+Democratic Republic of the Congo,2001,338,363,313,Africa
+Democratic Republic of the Congo,2000,342,368,316,Africa
+Denmark,2016,65,81,49,Europe
+Denmark,2015,66,81,51,Europe
+Denmark,2014,68,85,51,Europe
+Denmark,2013,72,89,54,Europe
+Denmark,2012,75,91,57,Europe
+Denmark,2011,78,96,59,Europe
+Denmark,2010,83,102,62,Europe
+Denmark,2009,84,104,64,Europe
+Denmark,2008,86,104,66,Europe
+Denmark,2007,91,112,68,Europe
+Denmark,2006,91,113,68,Europe
+Denmark,2005,89,110,68,Europe
+Denmark,2004,95,117,72,Europe
+Denmark,2003,98,121,74,Europe
+Denmark,2002,101,123,78,Europe
+Denmark,2001,100,120,78,Europe
+Denmark,2000,100,121,77,Europe
+Djibouti,2016,245,266,222,Arab States
+Djibouti,2015,248,271,223,Arab States
+Djibouti,2014,256,280,230,Arab States
+Djibouti,2013,255,276,232,Arab States
+Djibouti,2012,260,282,238,Arab States
+Djibouti,2011,266,287,243,Arab States
+Djibouti,2010,271,294,249,Arab States
+Djibouti,2009,279,302,256,Arab States
+Djibouti,2008,291,314,266,Arab States
+Djibouti,2007,298,320,275,Arab States
+Djibouti,2006,308,330,285,Arab States
+Djibouti,2005,314,336,292,Arab States
+Djibouti,2004,323,346,299,Arab States
+Djibouti,2003,325,349,301,Arab States
+Djibouti,2002,327,352,301,Arab States
+Djibouti,2001,325,351,298,Arab States
+Djibouti,2000,322,350,294,Arab States
+Dominican Republic,2016,160,202,117,Latin America
+Dominican Republic,2015,163,205,120,Latin America
+Dominican Republic,2014,166,209,123,Latin America
+Dominican Republic,2013,168,212,124,Latin America
+Dominican Republic,2012,171,215,126,Latin America
+Dominican Republic,2011,175,219,129,Latin America
+Dominican Republic,2010,180,224,134,Latin America
+Dominican Republic,2009,185,230,139,Latin America
+Dominican Republic,2008,192,237,146,Latin America
+Dominican Republic,2007,201,246,155,Latin America
+Dominican Republic,2006,207,251,160,Latin America
+Dominican Republic,2005,213,257,166,Latin America
+Dominican Republic,2004,218,262,171,Latin America
+Dominican Republic,2003,215,259,169,Latin America
+Dominican Republic,2002,215,258,169,Latin America
+Dominican Republic,2001,214,257,169,Latin America
+Dominican Republic,2000,212,255,167,Latin America
+Ecuador,2016,114,142,86,Latin America
+Ecuador,2015,117,146,88,Latin America
+Ecuador,2014,119,149,89,Latin America
+Ecuador,2013,122,152,91,Latin America
+Ecuador,2012,127,158,94,Latin America
+Ecuador,2011,130,166,94,Latin America
+Ecuador,2010,134,173,94,Latin America
+Ecuador,2009,137,176,97,Latin America
+Ecuador,2008,141,181,99,Latin America
+Ecuador,2007,141,181,100,Latin America
+Ecuador,2006,144,182,104,Latin America
+Ecuador,2005,149,189,107,Latin America
+Ecuador,2004,145,183,105,Latin America
+Ecuador,2003,146,185,107,Latin America
+Ecuador,2002,153,193,111,Latin America
+Ecuador,2001,154,192,115,Latin America
+Ecuador,2000,160,201,117,Latin America
+Egypt,2016,165,205,121,Middle east
+Egypt,2015,166,205,124,Middle east
+Egypt,2014,165,205,122,Middle east
+Egypt,2013,167,210,122,Middle east
+Egypt,2012,174,215,129,Middle east
+Egypt,2011,175,218,127,Middle east
+Egypt,2010,178,218,135,Middle east
+Egypt,2009,178,219,134,Middle east
+Egypt,2008,174,215,130,Middle east
+Egypt,2007,172,213,128,Middle east
+Egypt,2006,174,215,130,Middle east
+Egypt,2005,172,212,130,Middle east
+Egypt,2004,173,215,130,Middle east
+Egypt,2003,175,216,131,Middle east
+Egypt,2002,174,215,131,Middle east
+Egypt,2001,173,213,131,Middle east
+Egypt,2000,166,206,125,Middle east
+El Salvador,2016,177,261,103,Latin America
+El Salvador,2015,180,265,104,Latin America
+El Salvador,2014,182,269,105,Latin America
+El Salvador,2013,184,271,107,Latin America
+El Salvador,2012,186,273,109,Latin America
+El Salvador,2011,189,276,111,Latin America
+El Salvador,2010,192,280,113,Latin America
+El Salvador,2009,197,286,116,Latin America
+El Salvador,2008,198,287,118,Latin America
+El Salvador,2007,200,289,120,Latin America
+El Salvador,2006,203,291,122,Latin America
+El Salvador,2005,206,295,125,Latin America
+El Salvador,2004,209,297,127,Latin America
+El Salvador,2003,211,299,129,Latin America
+El Salvador,2002,213,301,131,Latin America
+El Salvador,2001,222,311,138,Latin America
+El Salvador,2000,218,305,135,Latin America
+Equatorial Guinea,2016,305,338,259,Africa
+Equatorial Guinea,2015,301,336,253,Africa
+Equatorial Guinea,2014,307,340,263,Africa
+Equatorial Guinea,2013,327,349,300,Africa
+Equatorial Guinea,2012,336,344,327,Africa
+Equatorial Guinea,2011,335,336,336,Africa
+Equatorial Guinea,2010,335,344,325,Africa
+Equatorial Guinea,2009,345,369,315,Africa
+Equatorial Guinea,2008,348,376,315,Africa
+Equatorial Guinea,2007,356,382,324,Africa
+Equatorial Guinea,2006,357,385,325,Africa
+Equatorial Guinea,2005,360,388,329,Africa
+Equatorial Guinea,2004,361,389,328,Africa
+Equatorial Guinea,2003,359,390,325,Africa
+Equatorial Guinea,2002,358,391,321,Africa
+Equatorial Guinea,2001,358,392,320,Africa
+Equatorial Guinea,2000,359,394,319,Africa
+Eritrea,2016,252,289,215,Africa
+Eritrea,2015,258,296,220,Africa
+Eritrea,2014,265,302,227,Africa
+Eritrea,2013,271,308,234,Africa
+Eritrea,2012,277,314,240,Africa
+Eritrea,2011,285,321,248,Africa
+Eritrea,2010,293,328,257,Africa
+Eritrea,2009,301,336,264,Africa
+Eritrea,2008,309,345,273,Africa
+Eritrea,2007,317,351,282,Africa
+Eritrea,2006,326,358,293,Africa
+Eritrea,2005,335,363,306,Africa
+Eritrea,2004,342,366,317,Africa
+Eritrea,2003,347,369,325,Africa
+Eritrea,2002,348,369,326,Africa
+Eritrea,2001,348,370,325,Africa
+Eritrea,2000,600,714,444,Africa
+Estonia,2016,119,172,65,Europe
+Estonia,2015,116,169,63,Europe
+Estonia,2014,124,183,65,Europe
+Estonia,2013,122,176,68,Europe
+Estonia,2012,134,200,68,Europe
+Estonia,2011,136,204,70,Europe
+Estonia,2010,134,203,68,Europe
+Estonia,2009,154,231,78,Europe
+Estonia,2008,164,245,85,Europe
+Estonia,2007,187,280,93,Europe
+Estonia,2006,186,275,97,Europe
+Estonia,2005,187,276,100,Europe
+Estonia,2004,193,288,98,Europe
+Estonia,2003,197,289,105,Europe
+Estonia,2002,210,310,109,Europe
+Estonia,2001,224,325,121,Europe
+Estonia,2000,216,312,120,Europe
+Eswatini,2016,393,464,338,Africa
+Eswatini,2015,398,468,344,Africa
+Eswatini,2014,408,479,351,Africa
+Eswatini,2013,421,495,360,Africa
+Eswatini,2012,443,518,381,Africa
+Eswatini,2011,469,542,408,Africa
+Eswatini,2010,503,576,441,Africa
+Eswatini,2009,524,594,464,Africa
+Eswatini,2008,554,616,502,Africa
+Eswatini,2007,587,627,555,Africa
+Eswatini,2006,628,665,599,Africa
+Eswatini,2005,652,689,622,Africa
+Eswatini,2004,650,690,616,Africa
+Eswatini,2003,633,677,595,Africa
+Eswatini,2002,610,658,570,Africa
+Eswatini,2001,580,630,537,Africa
+Eswatini,2000,540,592,494,Africa
+Ethiopia,2016,219,246,194,Africa
+Ethiopia,2015,225,250,200,Africa
+Ethiopia,2014,230,255,206,Africa
+Ethiopia,2013,234,260,210,Africa
+Ethiopia,2012,240,267,213,Africa
+Ethiopia,2011,249,276,223,Africa
+Ethiopia,2010,262,287,237,Africa
+Ethiopia,2009,278,302,254,Africa
+Ethiopia,2008,295,317,273,Africa
+Ethiopia,2007,316,336,296,Africa
+Ethiopia,2006,339,357,321,Africa
+Ethiopia,2005,358,376,341,Africa
+Ethiopia,2004,375,393,358,Africa
+Ethiopia,2003,386,404,369,Africa
+Ethiopia,2002,390,409,373,Africa
+Ethiopia,2001,392,411,373,Africa
+Ethiopia,2000,406,435,378,Africa
+Fiji,2016,186,233,136,Asia & Pacific
+Fiji,2015,188,234,138,Asia & Pacific
+Fiji,2014,190,236,140,Asia & Pacific
+Fiji,2013,192,238,142,Asia & Pacific
+Fiji,2012,195,241,145,Asia & Pacific
+Fiji,2011,197,243,147,Asia & Pacific
+Fiji,2010,200,246,149,Asia & Pacific
+Fiji,2009,203,250,152,Asia & Pacific
+Fiji,2008,206,253,155,Asia & Pacific
+Fiji,2007,209,255,157,Asia & Pacific
+Fiji,2006,212,258,161,Asia & Pacific
+Fiji,2005,214,260,164,Asia & Pacific
+Fiji,2004,218,263,168,Asia & Pacific
+Fiji,2003,220,265,171,Asia & Pacific
+Fiji,2002,220,265,173,Asia & Pacific
+Fiji,2001,221,265,174,Asia & Pacific
+Fiji,2000,222,265,176,Asia & Pacific
+Finland,2016,70,95,44,Europe
+Finland,2015,70,94,44,Europe
+Finland,2014,73,100,45,Europe
+Finland,2013,78,105,49,Europe
+Finland,2012,80,109,51,Europe
+Finland,2011,84,116,51,Europe
+Finland,2010,88,120,54,Europe
+Finland,2009,90,124,56,Europe
+Finland,2008,94,129,56,Europe
+Finland,2007,96,133,57,Europe
+Finland,2006,95,132,57,Europe
+Finland,2005,100,136,62,Europe
+Finland,2004,101,137,62,Europe
+Finland,2003,97,134,57,Europe
+Finland,2002,97,132,60,Europe
+Finland,2001,99,137,59,Europe
+Finland,2000,104,143,63,Europe
+France,2016,71,94,48,Europe
+France,2015,73,97,49,Europe
+France,2014,74,99,50,Europe
+France,2013,77,104,51,Europe
+France,2012,80,108,52,Europe
+France,2011,83,112,54,Europe
+France,2010,85,116,55,Europe
+France,2009,87,118,56,Europe
+France,2008,87,118,56,Europe
+France,2007,88,120,55,Europe
+France,2006,90,122,57,Europe
+France,2005,92,125,57,Europe
+France,2004,92,124,58,Europe
+France,2003,97,132,60,Europe
+France,2002,98,134,61,Europe
+France,2001,99,136,61,Europe
+France,2000,99,135,61,Europe
+Gabon,2016,221,239,201,Africa
+Gabon,2015,228,246,209,Africa
+Gabon,2014,235,253,215,Africa
+Gabon,2013,251,263,239,Africa
+Gabon,2012,269,267,274,Africa
+Gabon,2011,282,276,290,Africa
+Gabon,2010,288,283,296,Africa
+Gabon,2009,300,293,309,Africa
+Gabon,2008,304,296,314,Africa
+Gabon,2007,305,298,314,Africa
+Gabon,2006,308,302,314,Africa
+Gabon,2005,326,322,331,Africa
+Gabon,2004,338,336,341,Africa
+Gabon,2003,335,336,336,Africa
+Gabon,2002,331,335,329,Africa
+Gabon,2001,325,332,319,Africa
+Gabon,2000,317,327,308,Africa
+Gambia,2016,262,290,235,Africa
+Gambia,2015,265,292,238,Africa
+Gambia,2014,267,294,240,Africa
+Gambia,2013,266,295,238,Africa
+Gambia,2012,269,297,241,Africa
+Gambia,2011,275,300,250,Africa
+Gambia,2010,282,307,258,Africa
+Gambia,2009,283,308,256,Africa
+Gambia,2008,283,309,255,Africa
+Gambia,2007,282,309,253,Africa
+Gambia,2006,284,310,255,Africa
+Gambia,2005,290,315,263,Africa
+Gambia,2004,294,317,268,Africa
+Gambia,2003,297,319,272,Africa
+Gambia,2002,299,321,273,Africa
+Gambia,2001,301,323,275,Africa
+Gambia,2000,304,327,276,Africa
+Georgia,2016,160,238,83,Europe
+Georgia,2015,156,232,82,Europe
+Georgia,2014,155,231,81,Europe
+Georgia,2013,158,236,82,Europe
+Georgia,2012,157,235,82,Europe
+Georgia,2011,153,229,81,Europe
+Georgia,2010,157,236,81,Europe
+Georgia,2009,156,229,87,Europe
+Georgia,2008,150,226,77,Europe
+Georgia,2007,140,210,74,Europe
+Georgia,2006,145,221,73,Europe
+Georgia,2005,144,209,84,Europe
+Georgia,2004,148,216,85,Europe
+Georgia,2003,144,199,93,Europe
+Georgia,2002,152,215,92,Europe
+Georgia,2001,125,185,69,Europe
+Georgia,2000,129,191,71,Europe
+Germany,2016,69,88,49,Europe
+Germany,2015,71,92,50,Europe
+Germany,2014,70,90,49,Europe
+Germany,2013,73,93,51,Europe
+Germany,2012,73,94,51,Europe
+Germany,2011,75,97,53,Europe
+Germany,2010,78,101,53,Europe
+Germany,2009,80,104,55,Europe
+Germany,2008,81,105,56,Europe
+Germany,2007,82,107,56,Europe
+Germany,2006,83,109,57,Europe
+Germany,2005,84,110,57,Europe
+Germany,2004,85,111,58,Europe
+Germany,2003,89,117,60,Europe
+Germany,2002,91,119,61,Europe
+Germany,2001,92,120,62,Europe
+Germany,2000,95,125,64,Europe
+Ghana,2016,241,262,222,Africa
+Ghana,2015,245,265,227,Africa
+Ghana,2014,248,268,229,Africa
+Ghana,2013,250,270,231,Africa
+Ghana,2012,255,275,236,Africa
+Ghana,2011,263,282,246,Africa
+Ghana,2010,269,289,251,Africa
+Ghana,2009,276,298,255,Africa
+Ghana,2008,283,307,261,Africa
+Ghana,2007,291,316,267,Africa
+Ghana,2006,298,323,272,Africa
+Ghana,2005,303,329,277,Africa
+Ghana,2004,307,334,280,Africa
+Ghana,2003,309,337,281,Africa
+Ghana,2002,310,338,281,Africa
+Ghana,2001,310,337,283,Africa
+Ghana,2000,310,334,286,Africa
+Greece,2016,66,90,42,Europe
+Greece,2015,68,92,42,Europe
+Greece,2014,67,92,42,Europe
+Greece,2013,68,93,43,Europe
+Greece,2012,72,100,44,Europe
+Greece,2011,73,102,44,Europe
+Greece,2010,74,102,44,Europe
+Greece,2009,76,107,44,Europe
+Greece,2008,75,106,44,Europe
+Greece,2007,78,110,45,Europe
+Greece,2006,76,106,44,Europe
+Greece,2005,79,110,47,Europe
+Greece,2004,80,111,47,Europe
+Greece,2003,80,111,47,Europe
+Greece,2002,79,109,48,Europe
+Greece,2001,81,114,47,Europe
+Greece,2000,82,115,48,Europe
+Grenada,2016,140,183,96,Latin America
+Grenada,2015,141,184,97,Latin America
+Grenada,2014,143,186,98,Latin America
+Grenada,2013,145,188,100,Latin America
+Grenada,2012,147,190,101,Latin America
+Grenada,2011,150,193,104,Latin America
+Grenada,2010,154,198,107,Latin America
+Grenada,2009,158,203,110,Latin America
+Grenada,2008,162,207,113,Latin America
+Grenada,2007,164,210,116,Latin America
+Grenada,2006,167,214,118,Latin America
+Grenada,2005,171,218,122,Latin America
+Grenada,2004,186,236,134,Latin America
+Grenada,2003,175,223,126,Latin America
+Grenada,2002,175,223,127,Latin America
+Grenada,2001,178,227,129,Latin America
+Grenada,2000,182,232,133,Latin America
+Guatemala,2016,162,208,119,Latin America
+Guatemala,2015,165,213,120,Latin America
+Guatemala,2014,169,218,124,Latin America
+Guatemala,2013,172,226,123,Latin America
+Guatemala,2012,173,225,125,Latin America
+Guatemala,2011,180,235,129,Latin America
+Guatemala,2010,186,245,131,Latin America
+Guatemala,2009,191,252,133,Latin America
+Guatemala,2008,186,249,128,Latin America
+Guatemala,2007,191,250,135,Latin America
+Guatemala,2006,205,274,140,Latin America
+Guatemala,2005,211,279,147,Latin America
+Guatemala,2004,206,271,145,Latin America
+Guatemala,2003,209,276,146,Latin America
+Guatemala,2002,206,268,147,Latin America
+Guatemala,2001,214,283,149,Latin America
+Guatemala,2000,220,282,161,Latin America
+Guinea,2016,262,273,251,Africa
+Guinea,2015,277,289,265,Africa
+Guinea,2014,290,301,278,Africa
+Guinea,2013,275,287,264,Africa
+Guinea,2012,279,290,269,Africa
+Guinea,2011,282,296,269,Africa
+Guinea,2010,286,303,270,Africa
+Guinea,2009,294,314,274,Africa
+Guinea,2008,300,323,278,Africa
+Guinea,2007,304,329,280,Africa
+Guinea,2006,316,338,295,Africa
+Guinea,2005,329,345,313,Africa
+Guinea,2004,339,349,329,Africa
+Guinea,2003,345,352,340,Africa
+Guinea,2002,345,351,339,Africa
+Guinea,2001,341,349,333,Africa
+Guinea,2000,329,336,322,Africa
+Guinea-Bissau,2016,269,297,242,Africa
+Guinea-Bissau,2015,278,306,252,Africa
+Guinea-Bissau,2014,282,309,257,Africa
+Guinea-Bissau,2013,281,306,258,Africa
+Guinea-Bissau,2012,289,307,274,Africa
+Guinea-Bissau,2011,296,312,282,Africa
+Guinea-Bissau,2010,298,313,284,Africa
+Guinea-Bissau,2009,299,314,285,Africa
+Guinea-Bissau,2008,304,320,291,Africa
+Guinea-Bissau,2007,307,322,294,Africa
+Guinea-Bissau,2006,307,322,295,Africa
+Guinea-Bissau,2005,305,318,294,Africa
+Guinea-Bissau,2004,303,314,293,Africa
+Guinea-Bissau,2003,300,311,291,Africa
+Guinea-Bissau,2002,296,308,287,Africa
+Guinea-Bissau,2001,293,306,282,Africa
+Guinea-Bissau,2000,291,306,279,Africa
+Guyana,2016,264,313,210,Latin America
+Guyana,2015,264,313,211,Latin America
+Guyana,2014,264,312,212,Latin America
+Guyana,2013,263,311,212,Latin America
+Guyana,2012,272,322,219,Latin America
+Guyana,2011,263,310,214,Latin America
+Guyana,2010,258,305,209,Latin America
+Guyana,2009,252,295,207,Latin America
+Guyana,2008,249,291,205,Latin America
+Guyana,2007,257,299,212,Latin America
+Guyana,2006,267,312,219,Latin America
+Guyana,2005,267,311,220,Latin America
+Guyana,2004,270,316,222,Latin America
+Guyana,2003,277,323,228,Latin America
+Guyana,2002,280,326,232,Latin America
+Guyana,2001,273,315,229,Latin America
+Guyana,2000,282,323,240,Latin America
+Haiti,2016,243,276,211,Latin America
+Haiti,2015,245,277,213,Latin America
+Haiti,2014,248,281,215,Latin America
+Haiti,2013,253,285,221,Latin America
+Haiti,2012,256,286,227,Latin America
+Haiti,2011,256,286,227,Latin America
+Haiti,2010,683,769,572,Latin America
+Haiti,2009,257,287,228,Latin America
+Haiti,2008,266,296,236,Latin America
+Haiti,2007,272,301,243,Latin America
+Haiti,2006,282,311,254,Latin America
+Haiti,2005,290,319,261,Latin America
+Haiti,2004,318,354,282,Latin America
+Haiti,2003,297,327,267,Latin America
+Haiti,2002,300,331,271,Latin America
+Haiti,2001,303,335,273,Latin America
+Haiti,2000,306,338,275,Latin America
+Honduras,2016,145,172,119,Latin America
+Honduras,2015,147,173,121,Latin America
+Honduras,2014,148,174,122,Latin America
+Honduras,2013,149,176,123,Latin America
+Honduras,2012,151,178,125,Latin America
+Honduras,2011,153,180,127,Latin America
+Honduras,2010,156,183,129,Latin America
+Honduras,2009,156,183,130,Latin America
+Honduras,2008,158,185,132,Latin America
+Honduras,2007,160,188,133,Latin America
+Honduras,2006,162,190,134,Latin America
+Honduras,2005,164,194,136,Latin America
+Honduras,2004,166,197,136,Latin America
+Honduras,2003,170,201,140,Latin America
+Honduras,2002,172,203,142,Latin America
+Honduras,2001,174,205,143,Latin America
+Honduras,2000,176,207,145,Latin America
+Hungary,2016,126,173,79,Europe
+Hungary,2015,132,179,86,Europe
+Hungary,2014,133,183,85,Europe
+Hungary,2013,136,186,87,Europe
+Hungary,2012,143,197,89,Europe
+Hungary,2011,147,203,91,Europe
+Hungary,2010,152,213,92,Europe
+Hungary,2009,160,224,97,Europe
+Hungary,2008,164,230,99,Europe
+Hungary,2007,176,245,106,Europe
+Hungary,2006,178,251,104,Europe
+Hungary,2005,182,257,108,Europe
+Hungary,2004,180,253,108,Europe
+Hungary,2003,184,257,111,Europe
+Hungary,2002,184,258,110,Europe
+Hungary,2001,185,260,111,Europe
+Hungary,2000,193,271,114,Europe
+Iceland,2016,55,67,42,Europe
+Iceland,2015,54,68,40,Europe
+Iceland,2014,55,67,42,Europe
+Iceland,2013,53,68,38,Europe
+Iceland,2012,50,63,38,Europe
+Iceland,2011,51,64,38,Europe
+Iceland,2010,53,67,39,Europe
+Iceland,2009,55,69,39,Europe
+Iceland,2008,57,72,41,Europe
+Iceland,2007,60,73,47,Europe
+Iceland,2006,62,75,49,Europe
+Iceland,2005,61,72,50,Europe
+Iceland,2004,61,71,51,Europe
+Iceland,2003,63,73,52,Europe
+Iceland,2002,66,78,54,Europe
+Iceland,2001,73,90,56,Europe
+Iceland,2000,76,95,57,Europe
+India,2016,178,214,138,Asia & Pacific
+India,2015,181,217,141,Asia & Pacific
+India,2014,183,219,143,Asia & Pacific
+India,2013,186,221,147,Asia & Pacific
+India,2012,188,223,150,Asia & Pacific
+India,2011,191,224,154,Asia & Pacific
+India,2010,194,226,160,Asia & Pacific
+India,2009,198,227,165,Asia & Pacific
+India,2008,201,229,170,Asia & Pacific
+India,2007,204,231,175,Asia & Pacific
+India,2006,208,234,178,Asia & Pacific
+India,2005,211,238,181,Asia & Pacific
+India,2004,214,242,184,Asia & Pacific
+India,2003,216,244,186,Asia & Pacific
+India,2002,219,247,189,Asia & Pacific
+India,2001,222,249,192,Asia & Pacific
+India,2000,224,251,194,Asia & Pacific
+Indonesia,2016,176,205,146,Asia & Pacific
+Indonesia,2015,178,206,148,Asia & Pacific
+Indonesia,2014,180,208,150,Asia & Pacific
+Indonesia,2013,181,209,152,Asia & Pacific
+Indonesia,2012,183,210,153,Asia & Pacific
+Indonesia,2011,185,213,155,Asia & Pacific
+Indonesia,2010,187,215,156,Asia & Pacific
+Indonesia,2009,189,218,157,Asia & Pacific
+Indonesia,2008,190,219,158,Asia & Pacific
+Indonesia,2007,190,219,159,Asia & Pacific
+Indonesia,2006,190,219,161,Asia & Pacific
+Indonesia,2005,189,216,161,Asia & Pacific
+Indonesia,2004,212,244,180,Asia & Pacific
+Indonesia,2003,188,213,163,Asia & Pacific
+Indonesia,2002,188,212,164,Asia & Pacific
+Indonesia,2001,187,211,165,Asia & Pacific
+Indonesia,2000,187,210,166,Asia & Pacific
+Iran (Islamic Republic of),2016,80,99,60,Middle east
+Iran (Islamic Republic of),2015,82,101,61,Middle east
+Iran (Islamic Republic of),2014,83,102,63,Middle east
+Iran (Islamic Republic of),2013,84,103,64,Middle east
+Iran (Islamic Republic of),2012,87,107,67,Middle east
+Iran (Islamic Republic of),2011,95,118,71,Middle east
+Iran (Islamic Republic of),2010,107,135,78,Middle east
+Iran (Islamic Republic of),2009,122,156,85,Middle east
+Iran (Islamic Republic of),2008,134,172,92,Middle east
+Iran (Islamic Republic of),2007,138,175,97,Middle east
+Iran (Islamic Republic of),2006,140,175,101,Middle east
+Iran (Islamic Republic of),2005,141,175,105,Middle east
+Iran (Islamic Republic of),2004,142,174,109,Middle east
+Iran (Islamic Republic of),2003,159,191,124,Middle east
+Iran (Islamic Republic of),2002,147,174,117,Middle east
+Iran (Islamic Republic of),2001,150,176,123,Middle east
+Iran (Islamic Republic of),2000,153,178,128,Middle east
+Iraq,2016,174,213,133,Middle east
+Iraq,2015,180,223,138,Middle east
+Iraq,2014,192,238,144,Middle east
+Iraq,2013,162,197,127,Middle east
+Iraq,2012,145,174,117,Middle east
+Iraq,2011,144,172,117,Middle east
+Iraq,2010,144,173,117,Middle east
+Iraq,2009,150,180,120,Middle east
+Iraq,2008,169,206,131,Middle east
+Iraq,2007,228,288,165,Middle east
+Iraq,2006,250,316,177,Middle east
+Iraq,2005,210,264,153,Middle east
+Iraq,2004,202,252,148,Middle east
+Iraq,2003,213,268,155,Middle east
+Iraq,2002,140,166,112,Middle east
+Iraq,2001,141,168,113,Middle east
+Iraq,2000,148,180,115,Middle east
+Ireland,2016,62,78,47,Europe
+Ireland,2015,63,78,47,Europe
+Ireland,2014,62,78,46,Europe
+Ireland,2013,64,80,47,Europe
+Ireland,2012,66,82,50,Europe
+Ireland,2011,67,84,50,Europe
+Ireland,2010,65,81,49,Europe
+Ireland,2009,74,93,54,Europe
+Ireland,2008,72,88,55,Europe
+Ireland,2007,72,92,52,Europe
+Ireland,2006,75,92,57,Europe
+Ireland,2005,75,94,56,Europe
+Ireland,2004,79,99,59,Europe
+Ireland,2003,80,100,60,Europe
+Ireland,2002,86,111,59,Europe
+Ireland,2001,88,110,64,Europe
+Ireland,2000,93,117,68,Europe
+Israel,2016,58,75,41,Middle east
+Israel,2015,58,75,41,Middle east
+Israel,2014,58,74,42,Middle east
+Israel,2013,59,76,42,Middle east
+Israel,2012,58,75,40,Middle east
+Israel,2011,59,75,44,Middle east
+Israel,2010,60,77,43,Middle east
+Israel,2009,61,78,45,Middle east
+Israel,2008,64,84,45,Middle east
+Israel,2007,67,87,48,Middle east
+Israel,2006,69,89,49,Middle east
+Israel,2005,72,94,52,Middle east
+Israel,2004,73,95,51,Middle east
+Israel,2003,76,98,54,Middle east
+Israel,2002,81,105,57,Middle east
+Israel,2001,79,103,56,Middle east
+Israel,2000,80,105,56,Middle east
+Italy,2016,54,68,39,Europe
+Italy,2015,55,70,40,Europe
+Italy,2014,54,68,39,Europe
+Italy,2013,56,71,40,Europe
+Italy,2012,57,73,41,Europe
+Italy,2011,58,74,41,Europe
+Italy,2010,58,75,41,Europe
+Italy,2009,60,78,42,Europe
+Italy,2008,61,80,42,Europe
+Italy,2007,62,82,43,Europe
+Italy,2006,64,85,43,Europe
+Italy,2005,65,86,44,Europe
+Italy,2004,66,87,45,Europe
+Italy,2003,70,93,48,Europe
+Italy,2002,71,93,48,Europe
+Italy,2001,73,98,49,Europe
+Italy,2000,75,100,50,Europe
+Jamaica,2016,131,165,98,Latin America
+Jamaica,2015,133,167,97,Latin America
+Jamaica,2014,132,166,97,Latin America
+Jamaica,2013,135,166,103,Latin America
+Jamaica,2012,137,169,106,Latin America
+Jamaica,2011,139,170,107,Latin America
+Jamaica,2010,139,172,106,Latin America
+Jamaica,2009,143,176,110,Latin America
+Jamaica,2008,147,180,113,Latin America
+Jamaica,2007,151,184,117,Latin America
+Jamaica,2006,154,188,120,Latin America
+Jamaica,2005,164,200,128,Latin America
+Jamaica,2004,168,205,130,Latin America
+Jamaica,2003,170,208,130,Latin America
+Jamaica,2002,171,211,130,Latin America
+Jamaica,2001,175,217,130,Latin America
+Jamaica,2000,173,216,129,Latin America
+Japan,2016,51,65,36,Asia & Pacific
+Japan,2015,53,68,36,Asia & Pacific
+Japan,2014,54,70,38,Asia & Pacific
+Japan,2013,56,73,38,Asia & Pacific
+Japan,2012,57,75,39,Asia & Pacific
+Japan,2011,62,80,44,Asia & Pacific
+Japan,2010,61,81,41,Asia & Pacific
+Japan,2009,63,83,41,Asia & Pacific
+Japan,2008,64,85,43,Asia & Pacific
+Japan,2007,66,87,44,Asia & Pacific
+Japan,2006,67,88,44,Asia & Pacific
+Japan,2005,68,90,44,Asia & Pacific
+Japan,2004,67,89,44,Asia & Pacific
+Japan,2003,68,92,44,Asia & Pacific
+Japan,2002,68,92,44,Asia & Pacific
+Japan,2001,70,94,46,Asia & Pacific
+Japan,2000,72,96,47,Asia & Pacific
+Jordan,2016,111,128,92,Middle east
+Jordan,2015,111,129,93,Middle east
+Jordan,2014,113,130,95,Middle east
+Jordan,2013,113,131,96,Middle east
+Jordan,2012,114,131,97,Middle east
+Jordan,2011,115,132,98,Middle east
+Jordan,2010,116,133,99,Middle east
+Jordan,2009,117,134,100,Middle east
+Jordan,2008,119,135,101,Middle east
+Jordan,2007,120,137,103,Middle east
+Jordan,2006,122,138,104,Middle east
+Jordan,2005,127,145,107,Middle east
+Jordan,2004,125,142,108,Middle east
+Jordan,2003,127,144,109,Middle east
+Jordan,2002,129,146,111,Middle east
+Jordan,2001,131,148,113,Middle east
+Jordan,2000,133,150,115,Middle east
+Kazakhstan,2016,181,256,108,Asia & Pacific
+Kazakhstan,2015,192,272,114,Asia & Pacific
+Kazakhstan,2014,199,280,119,Asia & Pacific
+Kazakhstan,2013,211,299,122,Asia & Pacific
+Kazakhstan,2012,224,316,133,Asia & Pacific
+Kazakhstan,2011,232,327,136,Asia & Pacific
+Kazakhstan,2010,243,341,143,Asia & Pacific
+Kazakhstan,2009,240,338,143,Asia & Pacific
+Kazakhstan,2008,264,371,154,Asia & Pacific
+Kazakhstan,2007,293,413,167,Asia & Pacific
+Kazakhstan,2006,299,420,172,Asia & Pacific
+Kazakhstan,2005,297,417,171,Asia & Pacific
+Kazakhstan,2004,289,408,164,Asia & Pacific
+Kazakhstan,2003,283,400,164,Asia & Pacific
+Kazakhstan,2002,276,391,160,Asia & Pacific
+Kazakhstan,2001,283,398,166,Asia & Pacific
+Kazakhstan,2000,287,406,167,Asia & Pacific
+Kenya,2016,219,256,184,Africa
+Kenya,2015,232,272,192,Africa
+Kenya,2014,239,280,198,Africa
+Kenya,2013,241,282,202,Africa
+Kenya,2012,245,277,214,Africa
+Kenya,2011,265,283,248,Africa
+Kenya,2010,285,300,272,Africa
+Kenya,2009,314,326,303,Africa
+Kenya,2008,344,355,335,Africa
+Kenya,2007,372,381,364,Africa
+Kenya,2006,410,418,404,Africa
+Kenya,2005,438,445,432,Africa
+Kenya,2004,459,466,453,Africa
+Kenya,2003,466,474,460,Africa
+Kenya,2002,468,475,461,Africa
+Kenya,2001,465,473,458,Africa
+Kenya,2000,458,468,449,Africa
+Kiribati,2016,197,240,156,Asia & Pacific
+Kiribati,2015,199,242,159,Asia & Pacific
+Kiribati,2014,201,244,161,Asia & Pacific
+Kiribati,2013,203,246,163,Asia & Pacific
+Kiribati,2012,205,247,165,Asia & Pacific
+Kiribati,2011,206,248,166,Asia & Pacific
+Kiribati,2010,207,249,168,Asia & Pacific
+Kiribati,2009,209,249,170,Asia & Pacific
+Kiribati,2008,210,250,171,Asia & Pacific
+Kiribati,2007,211,251,173,Asia & Pacific
+Kiribati,2006,212,252,174,Asia & Pacific
+Kiribati,2005,213,253,175,Asia & Pacific
+Kiribati,2004,214,253,176,Asia & Pacific
+Kiribati,2003,215,254,178,Asia & Pacific
+Kiribati,2002,217,256,179,Asia & Pacific
+Kiribati,2001,219,258,182,Asia & Pacific
+Kiribati,2000,222,261,184,Asia & Pacific
+Kuwait,2016,79,93,57,Middle east
+Kuwait,2015,80,95,58,Middle east
+Kuwait,2014,81,95,59,Middle east
+Kuwait,2013,82,96,60,Middle east
+Kuwait,2012,83,96,61,Middle east
+Kuwait,2011,84,97,61,Middle east
+Kuwait,2010,84,97,62,Middle east
+Kuwait,2009,85,98,63,Middle east
+Kuwait,2008,85,98,63,Middle east
+Kuwait,2007,86,99,64,Middle east
+Kuwait,2006,87,100,65,Middle east
+Kuwait,2005,88,101,66,Middle east
+Kuwait,2004,89,102,67,Middle east
+Kuwait,2003,90,103,68,Middle east
+Kuwait,2002,91,104,69,Middle east
+Kuwait,2001,92,105,70,Middle east
+Kuwait,2000,94,106,71,Middle east
+Kyrgyzstan,2016,162,224,100,Asia & Pacific
+Kyrgyzstan,2015,167,229,106,Asia & Pacific
+Kyrgyzstan,2014,175,243,106,Asia & Pacific
+Kyrgyzstan,2013,183,254,112,Asia & Pacific
+Kyrgyzstan,2012,189,262,116,Asia & Pacific
+Kyrgyzstan,2011,196,269,122,Asia & Pacific
+Kyrgyzstan,2010,209,292,123,Asia & Pacific
+Kyrgyzstan,2009,204,278,128,Asia & Pacific
+Kyrgyzstan,2008,218,295,138,Asia & Pacific
+Kyrgyzstan,2007,230,317,141,Asia & Pacific
+Kyrgyzstan,2006,233,316,147,Asia & Pacific
+Kyrgyzstan,2005,223,299,144,Asia & Pacific
+Kyrgyzstan,2004,217,290,141,Asia & Pacific
+Kyrgyzstan,2003,217,292,140,Asia & Pacific
+Kyrgyzstan,2002,217,294,136,Asia & Pacific
+Kyrgyzstan,2001,219,298,137,Asia & Pacific
+Kyrgyzstan,2000,228,306,144,Asia & Pacific
+Lao People's Democratic Republic,2016,193,215,171,Asia & Pacific
+Lao People's Democratic Republic,2015,197,219,175,Asia & Pacific
+Lao People's Democratic Republic,2014,201,223,179,Asia & Pacific
+Lao People's Democratic Republic,2013,205,227,184,Asia & Pacific
+Lao People's Democratic Republic,2012,209,231,188,Asia & Pacific
+Lao People's Democratic Republic,2011,214,236,192,Asia & Pacific
+Lao People's Democratic Republic,2010,218,240,197,Asia & Pacific
+Lao People's Democratic Republic,2009,223,245,202,Asia & Pacific
+Lao People's Democratic Republic,2008,228,250,207,Asia & Pacific
+Lao People's Democratic Republic,2007,234,256,212,Asia & Pacific
+Lao People's Democratic Republic,2006,240,263,218,Asia & Pacific
+Lao People's Democratic Republic,2005,246,269,224,Asia & Pacific
+Lao People's Democratic Republic,2004,252,276,230,Asia & Pacific
+Lao People's Democratic Republic,2003,259,283,236,Asia & Pacific
+Lao People's Democratic Republic,2002,265,289,242,Asia & Pacific
+Lao People's Democratic Republic,2001,271,296,248,Asia & Pacific
+Lao People's Democratic Republic,2000,278,303,254,Asia & Pacific
+Latvia,2016,154,225,84,Europe
+Latvia,2015,154,227,83,Europe
+Latvia,2014,159,234,86,Europe
+Latvia,2013,164,239,92,Europe
+Latvia,2012,162,241,86,Europe
+Latvia,2011,167,243,94,Europe
+Latvia,2010,178,262,98,Europe
+Latvia,2009,185,270,103,Europe
+Latvia,2008,200,294,109,Europe
+Latvia,2007,224,328,120,Europe
+Latvia,2006,232,338,128,Europe
+Latvia,2005,220,325,116,Europe
+Latvia,2004,209,305,115,Europe
+Latvia,2003,212,308,119,Europe
+Latvia,2002,221,327,116,Europe
+Latvia,2001,229,335,123,Europe
+Latvia,2000,217,320,116,Europe
+Lebanon,2016,96,105,83,Middle east
+Lebanon,2015,98,110,85,Middle east
+Lebanon,2014,99,111,85,Middle east
+Lebanon,2013,98,109,85,Middle east
+Lebanon,2012,95,104,83,Middle east
+Lebanon,2011,111,131,90,Middle east
+Lebanon,2010,95,106,84,Middle east
+Lebanon,2009,96,107,85,Middle east
+Lebanon,2008,99,111,87,Middle east
+Lebanon,2007,99,111,87,Middle east
+Lebanon,2006,116,136,94,Middle east
+Lebanon,2005,103,116,90,Middle east
+Lebanon,2004,105,118,91,Middle east
+Lebanon,2003,107,121,93,Middle east
+Lebanon,2002,110,124,94,Middle east
+Lebanon,2001,112,127,96,Middle east
+Lebanon,2000,114,131,98,Middle east
+Lesotho,2016,483,536,445,Africa
+Lesotho,2015,498,553,459,Africa
+Lesotho,2014,495,549,455,Africa
+Lesotho,2013,487,540,449,Africa
+Lesotho,2012,478,524,447,Africa
+Lesotho,2011,467,518,431,Africa
+Lesotho,2010,478,520,449,Africa
+Lesotho,2009,493,517,481,Africa
+Lesotho,2008,521,541,511,Africa
+Lesotho,2007,590,603,585,Africa
+Lesotho,2006,620,637,613,Africa
+Lesotho,2005,637,652,631,Africa
+Lesotho,2004,627,643,620,Africa
+Lesotho,2003,608,626,599,Africa
+Lesotho,2002,581,601,569,Africa
+Lesotho,2001,546,568,532,Africa
+Lesotho,2000,507,531,491,Africa
+Liberia,2016,230,249,212,Africa
+Liberia,2015,241,264,218,Africa
+Liberia,2014,310,337,284,Africa
+Liberia,2013,236,253,221,Africa
+Liberia,2012,239,256,225,Africa
+Liberia,2011,247,264,232,Africa
+Liberia,2010,258,276,241,Africa
+Liberia,2009,269,288,251,Africa
+Liberia,2008,278,299,258,Africa
+Liberia,2007,286,307,266,Africa
+Liberia,2006,296,316,277,Africa
+Liberia,2005,302,321,284,Africa
+Liberia,2004,306,325,289,Africa
+Liberia,2003,377,431,320,Africa
+Liberia,2002,350,389,310,Africa
+Liberia,2001,324,348,300,Africa
+Liberia,2000,315,334,297,Africa
+Libya,2016,150,196,103,Middle east
+Libya,2015,147,191,101,Middle east
+Libya,2014,137,175,98,Middle east
+Libya,2013,126,158,94,Middle east
+Libya,2012,126,157,94,Middle east
+Libya,2011,156,202,107,Middle east
+Libya,2010,128,159,96,Middle east
+Libya,2009,130,160,97,Middle east
+Libya,2008,131,161,99,Middle east
+Libya,2007,133,162,101,Middle east
+Libya,2006,135,163,105,Middle east
+Libya,2005,138,164,109,Middle east
+Libya,2004,141,165,113,Middle east
+Libya,2003,143,166,117,Middle east
+Libya,2002,145,167,119,Middle east
+Libya,2001,146,168,121,Middle east
+Libya,2000,147,169,122,Middle east
+Lithuania,2016,155,231,79,Europe
+Lithuania,2015,165,247,85,Europe
+Lithuania,2014,167,250,85,Europe
+Lithuania,2013,179,267,91,Europe
+Lithuania,2012,180,267,93,Europe
+Lithuania,2011,184,272,96,Europe
+Lithuania,2010,188,281,97,Europe
+Lithuania,2009,197,294,101,Europe
+Lithuania,2008,229,334,122,Europe
+Lithuania,2007,246,364,123,Europe
+Lithuania,2006,235,349,119,Europe
+Lithuania,2005,228,338,115,Europe
+Lithuania,2004,209,311,105,Europe
+Lithuania,2003,207,307,108,Europe
+Lithuania,2002,207,308,105,Europe
+Lithuania,2001,214,317,111,Europe
+Lithuania,2000,200,297,105,Europe
+Luxembourg,2016,56,71,38,Europe
+Luxembourg,2015,52,69,33,Europe
+Luxembourg,2014,55,69,39,Europe
+Luxembourg,2013,60,76,43,Europe
+Luxembourg,2012,63,77,48,Europe
+Luxembourg,2011,66,81,50,Europe
+Luxembourg,2010,67,83,50,Europe
+Luxembourg,2009,67,83,50,Europe
+Luxembourg,2008,69,87,50,Europe
+Luxembourg,2007,75,94,54,Europe
+Luxembourg,2006,78,99,55,Europe
+Luxembourg,2005,81,106,55,Europe
+Luxembourg,2004,79,106,50,Europe
+Luxembourg,2003,85,115,53,Europe
+Luxembourg,2002,87,114,57,Europe
+Luxembourg,2001,90,114,65,Europe
+Luxembourg,2000,90,113,65,Europe
+Madagascar,2016,216,241,191,Africa
+Madagascar,2015,220,245,195,Africa
+Madagascar,2014,225,250,200,Africa
+Madagascar,2013,230,254,205,Africa
+Madagascar,2012,235,259,210,Africa
+Madagascar,2011,241,266,216,Africa
+Madagascar,2010,247,273,222,Africa
+Madagascar,2009,254,279,228,Africa
+Madagascar,2008,258,284,233,Africa
+Madagascar,2007,261,286,237,Africa
+Madagascar,2006,263,287,240,Africa
+Madagascar,2005,265,288,243,Africa
+Madagascar,2004,267,289,246,Africa
+Madagascar,2003,268,289,248,Africa
+Madagascar,2002,271,291,252,Africa
+Madagascar,2001,276,294,257,Africa
+Madagascar,2000,283,300,266,Africa
+Malawi,2016,255,312,203,Africa
+Malawi,2015,266,323,215,Africa
+Malawi,2014,279,337,228,Africa
+Malawi,2013,298,356,247,Africa
+Malawi,2012,325,380,277,Africa
+Malawi,2011,344,397,297,Africa
+Malawi,2010,366,420,320,Africa
+Malawi,2009,399,451,355,Africa
+Malawi,2008,438,485,398,Africa
+Malawi,2007,477,518,443,Africa
+Malawi,2006,511,546,483,Africa
+Malawi,2005,535,565,512,Africa
+Malawi,2004,549,576,528,Africa
+Malawi,2003,550,577,528,Africa
+Malawi,2002,547,575,524,Africa
+Malawi,2001,543,572,517,Africa
+Malawi,2000,535,567,507,Africa
+Malaysia,2016,123,156,86,Asia & Pacific
+Malaysia,2015,126,160,87,Asia & Pacific
+Malaysia,2014,128,163,89,Asia & Pacific
+Malaysia,2013,129,164,89,Asia & Pacific
+Malaysia,2012,129,165,89,Asia & Pacific
+Malaysia,2011,130,167,89,Asia & Pacific
+Malaysia,2010,132,170,89,Asia & Pacific
+Malaysia,2009,133,172,89,Asia & Pacific
+Malaysia,2008,134,175,88,Asia & Pacific
+Malaysia,2007,135,177,89,Asia & Pacific
+Malaysia,2006,137,179,89,Asia & Pacific
+Malaysia,2005,138,181,90,Asia & Pacific
+Malaysia,2004,140,182,92,Asia & Pacific
+Malaysia,2003,141,184,93,Asia & Pacific
+Malaysia,2002,143,185,95,Asia & Pacific
+Malaysia,2001,144,187,97,Asia & Pacific
+Malaysia,2000,145,186,100,Asia & Pacific
+Maldives,2016,53,63,39,Asia & Pacific
+Maldives,2015,54,65,41,Asia & Pacific
+Maldives,2014,57,68,43,Asia & Pacific
+Maldives,2013,59,71,45,Asia & Pacific
+Maldives,2012,62,74,48,Asia & Pacific
+Maldives,2011,66,79,50,Asia & Pacific
+Maldives,2010,71,84,56,Asia & Pacific
+Maldives,2009,76,88,62,Asia & Pacific
+Maldives,2008,80,92,67,Asia & Pacific
+Maldives,2007,83,93,71,Asia & Pacific
+Maldives,2006,88,99,77,Asia & Pacific
+Maldives,2005,93,104,81,Asia & Pacific
+Maldives,2004,118,135,101,Asia & Pacific
+Maldives,2003,114,128,99,Asia & Pacific
+Maldives,2002,128,144,112,Asia & Pacific
+Maldives,2001,135,151,119,Asia & Pacific
+Maldives,2000,142,155,129,Asia & Pacific
+Mali,2016,270,279,261,Africa
+Mali,2015,277,288,269,Africa
+Mali,2014,281,292,271,Africa
+Mali,2013,284,298,272,Africa
+Mali,2012,280,292,271,Africa
+Mali,2011,281,289,274,Africa
+Mali,2010,283,291,275,Africa
+Mali,2009,285,295,277,Africa
+Mali,2008,288,298,279,Africa
+Mali,2007,292,303,283,Africa
+Mali,2006,298,308,289,Africa
+Mali,2005,302,313,294,Africa
+Mali,2004,310,320,302,Africa
+Mali,2003,316,325,308,Africa
+Mali,2002,321,330,313,Africa
+Mali,2001,327,337,319,Africa
+Mali,2000,335,345,326,Africa
+Malta,2016,55,71,38,Europe
+Malta,2015,55,70,39,Europe
+Malta,2014,53,69,36,Europe
+Malta,2013,57,73,40,Europe
+Malta,2012,57,72,41,Europe
+Malta,2011,59,76,41,Europe
+Malta,2010,58,75,41,Europe
+Malta,2009,61,80,41,Europe
+Malta,2008,62,79,44,Europe
+Malta,2007,65,84,45,Europe
+Malta,2006,63,79,47,Europe
+Malta,2005,63,77,48,Europe
+Malta,2004,64,77,51,Europe
+Malta,2003,66,81,51,Europe
+Malta,2002,68,86,49,Europe
+Malta,2001,69,86,52,Europe
+Malta,2000,70,88,51,Europe
+Mauritania,2016,202,224,181,Arab States
+Mauritania,2015,204,226,182,Arab States
+Mauritania,2014,206,227,184,Arab States
+Mauritania,2013,207,229,186,Arab States
+Mauritania,2012,208,230,187,Arab States
+Mauritania,2011,211,234,188,Arab States
+Mauritania,2010,213,236,189,Arab States
+Mauritania,2009,214,238,191,Arab States
+Mauritania,2008,216,241,193,Arab States
+Mauritania,2007,219,243,195,Arab States
+Mauritania,2006,221,246,197,Arab States
+Mauritania,2005,224,250,200,Arab States
+Mauritania,2004,225,251,201,Arab States
+Mauritania,2003,226,253,201,Arab States
+Mauritania,2002,227,254,203,Arab States
+Mauritania,2001,228,254,204,Arab States
+Mauritania,2000,229,256,205,Arab States
+Mauritius,2016,145,194,94,Africa
+Mauritius,2015,148,195,98,Africa
+Mauritius,2014,148,194,99,Africa
+Mauritius,2013,145,193,95,Africa
+Mauritius,2012,152,199,102,Africa
+Mauritius,2011,156,212,97,Africa
+Mauritius,2010,162,214,107,Africa
+Mauritius,2009,165,225,102,Africa
+Mauritius,2008,165,219,107,Africa
+Mauritius,2007,160,213,105,Africa
+Mauritius,2006,162,212,110,Africa
+Mauritius,2005,164,217,109,Africa
+Mauritius,2004,164,216,109,Africa
+Mauritius,2003,168,219,116,Africa
+Mauritius,2002,173,233,111,Africa
+Mauritius,2001,172,223,119,Africa
+Mauritius,2000,172,221,121,Africa
+Mexico,2016,127,164,89,Latin America
+Mexico,2015,128,167,90,Latin America
+Mexico,2014,129,167,91,Latin America
+Mexico,2013,127,165,89,Latin America
+Mexico,2012,131,171,91,Latin America
+Mexico,2011,133,175,90,Latin America
+Mexico,2010,136,178,93,Latin America
+Mexico,2009,136,174,97,Latin America
+Mexico,2008,133,171,95,Latin America
+Mexico,2007,129,164,94,Latin America
+Mexico,2006,131,166,97,Latin America
+Mexico,2005,134,168,99,Latin America
+Mexico,2004,132,166,99,Latin America
+Mexico,2003,136,171,101,Latin America
+Mexico,2002,136,170,101,Latin America
+Mexico,2001,135,170,101,Latin America
+Mexico,2000,138,175,102,Latin America
+Micronesia (Federated States of),2016,164,181,148,Asia & Pacific
+Micronesia (Federated States of),2015,168,186,152,Asia & Pacific
+Micronesia (Federated States of),2014,167,183,151,Asia & Pacific
+Micronesia (Federated States of),2013,168,184,153,Asia & Pacific
+Micronesia (Federated States of),2012,169,185,154,Asia & Pacific
+Micronesia (Federated States of),2011,171,185,156,Asia & Pacific
+Micronesia (Federated States of),2010,172,185,158,Asia & Pacific
+Micronesia (Federated States of),2009,173,185,159,Asia & Pacific
+Micronesia (Federated States of),2008,174,186,161,Asia & Pacific
+Micronesia (Federated States of),2007,175,186,162,Asia & Pacific
+Micronesia (Federated States of),2006,176,187,164,Asia & Pacific
+Micronesia (Federated States of),2005,178,189,165,Asia & Pacific
+Micronesia (Federated States of),2004,179,191,167,Asia & Pacific
+Micronesia (Federated States of),2003,180,192,169,Asia & Pacific
+Micronesia (Federated States of),2002,201,217,185,Asia & Pacific
+Micronesia (Federated States of),2001,183,195,172,Asia & Pacific
+Micronesia (Federated States of),2000,185,196,174,Asia & Pacific
+Mongolia,2016,211,294,127,Asia & Pacific
+Mongolia,2015,213,296,129,Asia & Pacific
+Mongolia,2014,215,298,131,Asia & Pacific
+Mongolia,2013,218,301,134,Asia & Pacific
+Mongolia,2012,222,304,137,Asia & Pacific
+Mongolia,2011,227,310,142,Asia & Pacific
+Mongolia,2010,234,317,147,Asia & Pacific
+Mongolia,2009,241,325,153,Asia & Pacific
+Mongolia,2008,248,331,160,Asia & Pacific
+Mongolia,2007,250,332,164,Asia & Pacific
+Mongolia,2006,254,334,170,Asia & Pacific
+Mongolia,2005,258,335,176,Asia & Pacific
+Mongolia,2004,261,335,183,Asia & Pacific
+Mongolia,2003,265,336,190,Asia & Pacific
+Mongolia,2002,268,335,197,Asia & Pacific
+Mongolia,2001,271,332,206,Asia & Pacific
+Mongolia,2000,273,328,216,Asia & Pacific
+Montenegro,2016,99,131,67,Europe
+Montenegro,2015,101,133,68,Europe
+Montenegro,2014,103,136,70,Europe
+Montenegro,2013,105,138,71,Europe
+Montenegro,2012,108,142,73,Europe
+Montenegro,2011,111,145,75,Europe
+Montenegro,2010,112,147,76,Europe
+Montenegro,2009,115,150,79,Europe
+Montenegro,2008,119,155,82,Europe
+Montenegro,2007,123,161,84,Europe
+Montenegro,2006,127,167,86,Europe
+Montenegro,2005,130,170,88,Europe
+Montenegro,2004,131,171,91,Europe
+Montenegro,2003,132,171,94,Europe
+Montenegro,2002,133,172,95,Europe
+Montenegro,2001,137,177,97,Europe
+Montenegro,2000,140,183,97,Europe
+Morocco,2016,69,74,65,Arab States
+Morocco,2015,70,74,66,Arab States
+Morocco,2014,72,76,67,Arab States
+Morocco,2013,73,77,69,Arab States
+Morocco,2012,75,79,71,Arab States
+Morocco,2011,78,83,73,Arab States
+Morocco,2010,82,89,75,Arab States
+Morocco,2009,87,95,78,Arab States
+Morocco,2008,92,103,81,Arab States
+Morocco,2007,97,110,85,Arab States
+Morocco,2006,106,119,92,Arab States
+Morocco,2005,116,131,102,Arab States
+Morocco,2004,129,145,113,Arab States
+Morocco,2003,139,157,122,Arab States
+Morocco,2002,146,165,128,Arab States
+Morocco,2001,152,173,133,Arab States
+Morocco,2000,159,181,139,Arab States
+Mozambique,2016,336,386,292,Africa
+Mozambique,2015,359,401,321,Africa
+Mozambique,2014,387,415,361,Africa
+Mozambique,2013,402,426,381,Africa
+Mozambique,2012,404,427,385,Africa
+Mozambique,2011,406,427,387,Africa
+Mozambique,2010,409,428,392,Africa
+Mozambique,2009,414,431,399,Africa
+Mozambique,2008,427,442,415,Africa
+Mozambique,2007,444,455,435,Africa
+Mozambique,2006,452,464,441,Africa
+Mozambique,2005,452,468,439,Africa
+Mozambique,2004,450,469,433,Africa
+Mozambique,2003,446,469,426,Africa
+Mozambique,2002,439,466,416,Africa
+Mozambique,2001,433,462,407,Africa
+Mozambique,2000,428,460,400,Africa
+Myanmar,2016,195,229,163,Asia & Pacific
+Myanmar,2015,197,232,164,Asia & Pacific
+Myanmar,2014,200,235,166,Asia & Pacific
+Myanmar,2013,203,239,169,Asia & Pacific
+Myanmar,2012,208,245,172,Asia & Pacific
+Myanmar,2011,211,249,175,Asia & Pacific
+Myanmar,2010,215,251,181,Asia & Pacific
+Myanmar,2009,219,254,185,Asia & Pacific
+Myanmar,2008,307,360,254,Asia & Pacific
+Myanmar,2007,227,263,193,Asia & Pacific
+Myanmar,2006,230,266,196,Asia & Pacific
+Myanmar,2005,233,269,198,Asia & Pacific
+Myanmar,2004,236,272,201,Asia & Pacific
+Myanmar,2003,238,274,203,Asia & Pacific
+Myanmar,2002,240,276,206,Asia & Pacific
+Myanmar,2001,243,277,210,Asia & Pacific
+Myanmar,2000,245,279,213,Asia & Pacific
+Namibia,2016,296,344,253,Africa
+Namibia,2015,296,341,255,Africa
+Namibia,2014,286,339,239,Africa
+Namibia,2013,287,343,235,Africa
+Namibia,2012,293,351,242,Africa
+Namibia,2011,310,362,264,Africa
+Namibia,2010,328,372,289,Africa
+Namibia,2009,332,377,293,Africa
+Namibia,2008,354,402,312,Africa
+Namibia,2007,409,445,379,Africa
+Namibia,2006,463,493,438,Africa
+Namibia,2005,497,520,478,Africa
+Namibia,2004,513,531,498,Africa
+Namibia,2003,500,521,484,Africa
+Namibia,2002,479,503,459,Africa
+Namibia,2001,454,481,431,Africa
+Namibia,2000,428,459,401,Africa
+Nepal,2016,151,171,131,Asia & Pacific
+Nepal,2015,166,190,143,Asia & Pacific
+Nepal,2014,160,181,140,Asia & Pacific
+Nepal,2013,164,185,144,Asia & Pacific
+Nepal,2012,169,189,149,Asia & Pacific
+Nepal,2011,173,193,153,Asia & Pacific
+Nepal,2010,178,197,158,Asia & Pacific
+Nepal,2009,183,202,163,Asia & Pacific
+Nepal,2008,188,207,169,Asia & Pacific
+Nepal,2007,194,212,175,Asia & Pacific
+Nepal,2006,201,221,181,Asia & Pacific
+Nepal,2005,210,232,188,Asia & Pacific
+Nepal,2004,221,245,196,Asia & Pacific
+Nepal,2003,225,248,202,Asia & Pacific
+Nepal,2002,242,271,213,Asia & Pacific
+Nepal,2001,234,255,214,Asia & Pacific
+Nepal,2000,241,261,222,Asia & Pacific
+Netherlands,2016,59,66,52,Europe
+Netherlands,2015,58,66,50,Europe
+Netherlands,2014,59,67,51,Europe
+Netherlands,2013,61,70,51,Europe
+Netherlands,2012,63,72,54,Europe
+Netherlands,2011,64,72,56,Europe
+Netherlands,2010,64,74,55,Europe
+Netherlands,2009,65,75,55,Europe
+Netherlands,2008,67,77,57,Europe
+Netherlands,2007,67,77,57,Europe
+Netherlands,2006,70,80,59,Europe
+Netherlands,2005,72,82,61,Europe
+Netherlands,2004,76,89,63,Europe
+Netherlands,2003,80,93,66,Europe
+Netherlands,2002,81,94,67,Europe
+Netherlands,2001,82,97,66,Europe
+Netherlands,2000,83,99,67,Europe
+New Zealand,2016,66,81,51,Asia & Pacific
+New Zealand,2015,67,82,52,Asia & Pacific
+New Zealand,2014,67,82,53,Asia & Pacific
+New Zealand,2013,66,81,52,Asia & Pacific
+New Zealand,2012,68,82,54,Asia & Pacific
+New Zealand,2011,71,86,57,Asia & Pacific
+New Zealand,2010,71,87,55,Asia & Pacific
+New Zealand,2009,73,88,57,Asia & Pacific
+New Zealand,2008,74,89,60,Asia & Pacific
+New Zealand,2007,76,93,59,Asia & Pacific
+New Zealand,2006,75,91,60,Asia & Pacific
+New Zealand,2005,77,95,60,Asia & Pacific
+New Zealand,2004,79,94,63,Asia & Pacific
+New Zealand,2003,81,99,64,Asia & Pacific
+New Zealand,2002,82,100,64,Asia & Pacific
+New Zealand,2001,83,101,64,Asia & Pacific
+New Zealand,2000,86,105,67,Asia & Pacific
+Nicaragua,2016,146,190,103,Latin America
+Nicaragua,2015,148,193,105,Latin America
+Nicaragua,2014,150,196,107,Latin America
+Nicaragua,2013,153,199,109,Latin America
+Nicaragua,2012,155,202,111,Latin America
+Nicaragua,2011,158,205,113,Latin America
+Nicaragua,2010,160,208,115,Latin America
+Nicaragua,2009,162,210,117,Latin America
+Nicaragua,2008,165,213,120,Latin America
+Nicaragua,2007,170,219,123,Latin America
+Nicaragua,2006,174,223,126,Latin America
+Nicaragua,2005,179,230,131,Latin America
+Nicaragua,2004,185,236,136,Latin America
+Nicaragua,2003,189,240,140,Latin America
+Nicaragua,2002,192,243,144,Latin America
+Nicaragua,2001,195,245,147,Latin America
+Nicaragua,2000,197,246,149,Latin America
+Niger,2016,250,263,235,Africa
+Niger,2015,257,272,240,Africa
+Niger,2014,258,270,242,Africa
+Niger,2013,261,274,246,Africa
+Niger,2012,264,277,249,Africa
+Niger,2011,267,280,252,Africa
+Niger,2010,269,282,253,Africa
+Niger,2009,274,287,259,Africa
+Niger,2008,277,290,261,Africa
+Niger,2007,279,292,263,Africa
+Niger,2006,281,295,267,Africa
+Niger,2005,285,298,271,Africa
+Niger,2004,287,300,274,Africa
+Niger,2003,289,302,277,Africa
+Niger,2002,291,303,278,Africa
+Niger,2001,292,305,279,Africa
+Niger,2000,293,306,280,Africa
+Nigeria,2016,352,372,333,Africa
+Nigeria,2015,355,376,335,Africa
+Nigeria,2014,361,382,339,Africa
+Nigeria,2013,367,384,349,Africa
+Nigeria,2012,373,388,359,Africa
+Nigeria,2011,376,391,362,Africa
+Nigeria,2010,378,392,364,Africa
+Nigeria,2009,380,396,366,Africa
+Nigeria,2008,385,401,371,Africa
+Nigeria,2007,388,403,372,Africa
+Nigeria,2006,395,411,379,Africa
+Nigeria,2005,402,419,386,Africa
+Nigeria,2004,411,428,394,Africa
+Nigeria,2003,415,432,398,Africa
+Nigeria,2002,414,432,396,Africa
+Nigeria,2001,411,430,393,Africa
+Nigeria,2000,407,427,388,Africa
+Norway,2016,55,66,42,Europe
+Norway,2015,54,65,42,Europe
+Norway,2014,57,69,43,Europe
+Norway,2013,61,75,46,Europe
+Norway,2012,60,74,45,Europe
+Norway,2011,66,82,50,Europe
+Norway,2010,65,79,50,Europe
+Norway,2009,67,83,50,Europe
+Norway,2008,66,82,49,Europe
+Norway,2007,67,80,52,Europe
+Norway,2006,69,85,53,Europe
+Norway,2005,72,88,55,Europe
+Norway,2004,76,93,58,Europe
+Norway,2003,77,95,57,Europe
+Norway,2002,80,100,59,Europe
+Norway,2001,81,101,60,Europe
+Norway,2000,84,106,61,Europe
+Oman,2016,96,108,68,Middle east
+Oman,2015,98,111,70,Middle east
+Oman,2014,100,113,71,Middle east
+Oman,2013,101,115,72,Middle east
+Oman,2012,103,118,73,Middle east
+Oman,2011,105,121,75,Middle east
+Oman,2010,107,123,76,Middle east
+Oman,2009,108,125,78,Middle east
+Oman,2008,110,128,79,Middle east
+Oman,2007,113,132,82,Middle east
+Oman,2006,115,134,83,Middle east
+Oman,2005,118,138,86,Middle east
+Oman,2004,122,143,90,Middle east
+Oman,2003,127,148,94,Middle east
+Oman,2002,130,151,97,Middle east
+Oman,2001,134,155,101,Middle east
+Oman,2000,139,161,104,Middle east
+Pakistan,2016,159,178,139,Asia & Pacific
+Pakistan,2015,166,188,143,Asia & Pacific
+Pakistan,2014,167,188,145,Asia & Pacific
+Pakistan,2013,168,187,147,Asia & Pacific
+Pakistan,2012,170,189,149,Asia & Pacific
+Pakistan,2011,171,190,151,Asia & Pacific
+Pakistan,2010,175,195,154,Asia & Pacific
+Pakistan,2009,177,196,156,Asia & Pacific
+Pakistan,2008,177,195,158,Asia & Pacific
+Pakistan,2007,178,195,160,Asia & Pacific
+Pakistan,2006,180,195,162,Asia & Pacific
+Pakistan,2005,200,219,179,Asia & Pacific
+Pakistan,2004,183,197,168,Asia & Pacific
+Pakistan,2003,185,199,170,Asia & Pacific
+Pakistan,2002,187,200,172,Asia & Pacific
+Pakistan,2001,188,202,174,Asia & Pacific
+Pakistan,2000,190,203,175,Asia & Pacific
+Panama,2016,111,145,76,Latin America
+Panama,2015,112,146,77,Latin America
+Panama,2014,111,144,77,Latin America
+Panama,2013,114,146,80,Latin America
+Panama,2012,116,153,77,Latin America
+Panama,2011,117,152,80,Latin America
+Panama,2010,117,153,79,Latin America
+Panama,2009,122,161,82,Latin America
+Panama,2008,122,160,82,Latin America
+Panama,2007,119,152,84,Latin America
+Panama,2006,119,154,84,Latin America
+Panama,2005,116,149,82,Latin America
+Panama,2004,117,147,85,Latin America
+Panama,2003,120,154,85,Latin America
+Panama,2002,120,153,85,Latin America
+Panama,2001,120,153,86,Latin America
+Panama,2000,120,152,86,Latin America
+Papua New Guinea,2016,224,256,191,Asia & Pacific
+Papua New Guinea,2015,226,257,192,Asia & Pacific
+Papua New Guinea,2014,228,260,195,Asia & Pacific
+Papua New Guinea,2013,231,263,198,Asia & Pacific
+Papua New Guinea,2012,234,266,201,Asia & Pacific
+Papua New Guinea,2011,235,266,202,Asia & Pacific
+Papua New Guinea,2010,235,266,202,Asia & Pacific
+Papua New Guinea,2009,235,267,203,Asia & Pacific
+Papua New Guinea,2008,237,269,204,Asia & Pacific
+Papua New Guinea,2007,243,276,210,Asia & Pacific
+Papua New Guinea,2006,249,281,215,Asia & Pacific
+Papua New Guinea,2005,254,287,221,Asia & Pacific
+Papua New Guinea,2004,260,293,226,Asia & Pacific
+Papua New Guinea,2003,265,298,231,Asia & Pacific
+Papua New Guinea,2002,269,303,234,Asia & Pacific
+Papua New Guinea,2001,273,307,237,Asia & Pacific
+Papua New Guinea,2000,276,310,240,Asia & Pacific
+Paraguay,2016,146,165,125,Latin America
+Paraguay,2015,146,165,125,Latin America
+Paraguay,2014,147,166,126,Latin America
+Paraguay,2013,148,168,127,Latin America
+Paraguay,2012,149,168,128,Latin America
+Paraguay,2011,150,169,129,Latin America
+Paraguay,2010,152,171,131,Latin America
+Paraguay,2009,154,174,133,Latin America
+Paraguay,2008,157,177,135,Latin America
+Paraguay,2007,159,179,137,Latin America
+Paraguay,2006,161,181,139,Latin America
+Paraguay,2005,164,184,142,Latin America
+Paraguay,2004,165,185,143,Latin America
+Paraguay,2003,166,186,145,Latin America
+Paraguay,2002,167,188,146,Latin America
+Paraguay,2001,169,191,146,Latin America
+Paraguay,2000,171,195,147,Latin America
+Peru,2016,124,154,94,Latin America
+Peru,2015,125,155,96,Latin America
+Peru,2014,127,157,97,Latin America
+Peru,2013,128,158,98,Latin America
+Peru,2012,129,159,100,Latin America
+Peru,2011,130,160,101,Latin America
+Peru,2010,132,163,102,Latin America
+Peru,2009,135,166,103,Latin America
+Peru,2008,136,167,104,Latin America
+Peru,2007,139,171,107,Latin America
+Peru,2006,141,173,109,Latin America
+Peru,2005,143,175,111,Latin America
+Peru,2004,145,177,112,Latin America
+Peru,2003,148,180,115,Latin America
+Peru,2002,150,183,117,Latin America
+Peru,2001,153,186,119,Latin America
+Peru,2000,155,188,122,Latin America
+Philippines,2016,194,244,141,Asia & Pacific
+Philippines,2015,195,245,142,Asia & Pacific
+Philippines,2014,197,247,143,Asia & Pacific
+Philippines,2013,199,249,145,Asia & Pacific
+Philippines,2012,200,251,146,Asia & Pacific
+Philippines,2011,202,253,147,Asia & Pacific
+Philippines,2010,203,255,148,Asia & Pacific
+Philippines,2009,207,260,150,Asia & Pacific
+Philippines,2008,207,262,148,Asia & Pacific
+Philippines,2007,208,264,149,Asia & Pacific
+Philippines,2006,215,272,155,Asia & Pacific
+Philippines,2005,217,276,155,Asia & Pacific
+Philippines,2004,213,270,153,Asia & Pacific
+Philippines,2003,212,269,154,Asia & Pacific
+Philippines,2002,216,271,158,Asia & Pacific
+Philippines,2001,215,269,159,Asia & Pacific
+Philippines,2000,213,266,157,Asia & Pacific
+Poland,2016,111,158,62,Europe
+Poland,2015,115,165,63,Europe
+Poland,2014,115,164,64,Europe
+Poland,2013,121,174,67,Europe
+Poland,2012,126,181,69,Europe
+Poland,2011,128,185,70,Europe
+Poland,2010,131,189,71,Europe
+Poland,2009,137,197,76,Europe
+Poland,2008,142,204,77,Europe
+Poland,2007,145,209,79,Europe
+Poland,2006,145,208,80,Europe
+Poland,2005,144,206,79,Europe
+Poland,2004,142,204,78,Europe
+Poland,2003,140,201,79,Europe
+Poland,2002,143,204,80,Europe
+Poland,2001,147,210,83,Europe
+Poland,2000,152,217,86,Europe
+Portugal,2016,76,110,43,Europe
+Portugal,2015,77,111,44,Europe
+Portugal,2014,77,110,45,Europe
+Portugal,2013,78,113,46,Europe
+Portugal,2012,81,116,47,Europe
+Portugal,2011,84,120,49,Europe
+Portugal,2010,86,122,51,Europe
+Portugal,2009,88,124,53,Europe
+Portugal,2008,89,126,53,Europe
+Portugal,2007,92,130,54,Europe
+Portugal,2006,95,133,56,Europe
+Portugal,2005,97,137,58,Europe
+Portugal,2004,99,140,59,Europe
+Portugal,2003,104,146,63,Europe
+Portugal,2002,107,150,64,Europe
+Portugal,2001,109,153,65,Europe
+Portugal,2000,110,154,66,Europe
+Qatar,2016,62,66,47,Middle east
+Qatar,2015,63,67,47,Middle east
+Qatar,2014,64,68,48,Middle east
+Qatar,2013,65,69,48,Middle east
+Qatar,2012,65,69,49,Middle east
+Qatar,2011,65,70,50,Middle east
+Qatar,2010,65,70,50,Middle east
+Qatar,2009,65,70,51,Middle east
+Qatar,2008,65,70,51,Middle east
+Qatar,2007,66,70,52,Middle east
+Qatar,2006,66,71,54,Middle east
+Qatar,2005,67,72,56,Middle east
+Qatar,2004,69,74,59,Middle east
+Qatar,2003,70,75,61,Middle east
+Qatar,2002,72,76,63,Middle east
+Qatar,2001,73,77,65,Middle east
+Qatar,2000,74,78,67,Middle east
+Republic of Korea,2016,61,85,36,Asia & Pacific
+Republic of Korea,2015,63,87,37,Asia & Pacific
+Republic of Korea,2014,66,92,38,Asia & Pacific
+Republic of Korea,2013,68,96,39,Asia & Pacific
+Republic of Korea,2012,70,99,40,Asia & Pacific
+Republic of Korea,2011,74,104,42,Asia & Pacific
+Republic of Korea,2010,76,108,43,Asia & Pacific
+Republic of Korea,2009,78,109,45,Asia & Pacific
+Republic of Korea,2008,79,111,45,Asia & Pacific
+Republic of Korea,2007,80,113,46,Asia & Pacific
+Republic of Korea,2006,82,117,46,Asia & Pacific
+Republic of Korea,2005,86,122,49,Asia & Pacific
+Republic of Korea,2004,90,129,49,Asia & Pacific
+Republic of Korea,2003,95,135,52,Asia & Pacific
+Republic of Korea,2002,99,141,54,Asia & Pacific
+Republic of Korea,2001,105,150,57,Asia & Pacific
+Republic of Korea,2000,114,163,62,Asia & Pacific
+Republic of Moldova,2016,167,241,95,Europe
+Republic of Moldova,2015,184,262,107,Europe
+Republic of Moldova,2014,180,257,106,Europe
+Republic of Moldova,2013,170,244,99,Europe
+Republic of Moldova,2012,183,262,106,Europe
+Republic of Moldova,2011,183,263,105,Europe
+Republic of Moldova,2010,223,315,132,Europe
+Republic of Moldova,2009,217,304,131,Europe
+Republic of Moldova,2008,222,306,138,Europe
+Republic of Moldova,2007,232,318,147,Europe
+Republic of Moldova,2006,237,323,151,Europe
+Republic of Moldova,2005,240,332,150,Europe
+Republic of Moldova,2004,216,298,136,Europe
+Republic of Moldova,2003,217,291,144,Europe
+Republic of Moldova,2002,216,289,144,Europe
+Republic of Moldova,2001,219,293,147,Europe
+Republic of Moldova,2000,226,304,151,Europe
+North Macedonia,2016,96,124,66,Europe
+North Macedonia,2015,97,126,67,Europe
+North Macedonia,2014,98,127,68,Europe
+North Macedonia,2013,98,128,67,Europe
+North Macedonia,2012,102,130,73,Europe
+North Macedonia,2011,102,132,71,Europe
+North Macedonia,2010,106,137,73,Europe
+North Macedonia,2009,109,141,75,Europe
+North Macedonia,2008,109,138,79,Europe
+North Macedonia,2007,118,151,85,Europe
+North Macedonia,2006,120,158,81,Europe
+North Macedonia,2005,118,154,81,Europe
+North Macedonia,2004,119,155,82,Europe
+North Macedonia,2003,124,165,82,Europe
+North Macedonia,2002,127,170,82,Europe
+North Macedonia,2001,128,169,85,Europe
+North Macedonia,2000,124,159,88,Europe
+Romania,2016,135,191,77,Europe
+Romania,2015,136,191,79,Europe
+Romania,2014,140,196,82,Europe
+Romania,2013,134,188,79,Europe
+Romania,2012,141,198,82,Europe
+Romania,2011,141,199,82,Europe
+Romania,2010,155,218,89,Europe
+Romania,2009,160,225,93,Europe
+Romania,2008,160,225,93,Europe
+Romania,2007,155,216,93,Europe
+Romania,2006,158,219,95,Europe
+Romania,2005,162,224,99,Europe
+Romania,2004,166,230,100,Europe
+Romania,2003,174,239,106,Europe
+Romania,2002,178,245,109,Europe
+Romania,2001,179,246,109,Europe
+Romania,2000,175,240,108,Europe
+Russian Federation,2016,203,294,111,Europe
+Russian Federation,2015,208,302,114,Europe
+Russian Federation,2014,214,311,117,Europe
+Russian Federation,2013,221,321,121,Europe
+Russian Federation,2012,230,333,126,Europe
+Russian Federation,2011,237,343,129,Europe
+Russian Federation,2010,251,363,136,Europe
+Russian Federation,2009,256,369,139,Europe
+Russian Federation,2008,274,395,147,Europe
+Russian Federation,2007,279,402,149,Europe
+Russian Federation,2006,299,429,159,Europe
+Russian Federation,2005,326,465,173,Europe
+Russian Federation,2004,321,459,170,Europe
+Russian Federation,2003,325,463,172,Europe
+Russian Federation,2002,317,453,166,Europe
+Russian Federation,2001,311,447,163,Europe
+Russian Federation,2000,311,447,161,Europe
+Rwanda,2016,198,224,172,Africa
+Rwanda,2015,203,229,178,Africa
+Rwanda,2014,207,232,182,Africa
+Rwanda,2013,212,236,188,Africa
+Rwanda,2012,219,242,198,Africa
+Rwanda,2011,228,249,206,Africa
+Rwanda,2010,239,260,219,Africa
+Rwanda,2009,266,296,237,Africa
+Rwanda,2008,263,284,243,Africa
+Rwanda,2007,282,303,262,Africa
+Rwanda,2006,321,340,303,Africa
+Rwanda,2005,366,381,353,Africa
+Rwanda,2004,399,411,388,Africa
+Rwanda,2003,417,428,408,Africa
+Rwanda,2002,429,440,420,Africa
+Rwanda,2001,456,476,438,Africa
+Rwanda,2000,451,461,442,Africa
+Saint Lucia,2016,147,178,116,Latin America
+Saint Lucia,2015,148,179,117,Latin America
+Saint Lucia,2014,145,179,112,Latin America
+Saint Lucia,2013,149,181,117,Latin America
+Saint Lucia,2012,153,179,126,Latin America
+Saint Lucia,2011,153,179,126,Latin America
+Saint Lucia,2010,153,183,122,Latin America
+Saint Lucia,2009,152,185,118,Latin America
+Saint Lucia,2008,152,185,118,Latin America
+Saint Lucia,2007,153,185,121,Latin America
+Saint Lucia,2006,155,185,124,Latin America
+Saint Lucia,2005,158,188,128,Latin America
+Saint Lucia,2004,162,196,129,Latin America
+Saint Lucia,2003,169,206,134,Latin America
+Saint Lucia,2002,176,217,136,Latin America
+Saint Lucia,2001,181,221,142,Latin America
+Saint Lucia,2000,186,225,147,Latin America
+Saint Vincent and the Grenadines,2016,169,208,126,Latin America
+Saint Vincent and the Grenadines,2015,164,202,122,Latin America
+Saint Vincent and the Grenadines,2014,170,207,130,Latin America
+Saint Vincent and the Grenadines,2013,174,208,137,Latin America
+Saint Vincent and the Grenadines,2012,174,207,137,Latin America
+Saint Vincent and the Grenadines,2011,167,200,132,Latin America
+Saint Vincent and the Grenadines,2010,163,193,132,Latin America
+Saint Vincent and the Grenadines,2009,162,186,137,Latin America
+Saint Vincent and the Grenadines,2008,169,192,145,Latin America
+Saint Vincent and the Grenadines,2007,173,200,143,Latin America
+Saint Vincent and the Grenadines,2006,179,213,141,Latin America
+Saint Vincent and the Grenadines,2005,182,221,139,Latin America
+Saint Vincent and the Grenadines,2004,188,224,149,Latin America
+Saint Vincent and the Grenadines,2003,192,223,159,Latin America
+Saint Vincent and the Grenadines,2002,196,224,164,Latin America
+Saint Vincent and the Grenadines,2001,195,224,164,Latin America
+Saint Vincent and the Grenadines,2000,196,225,163,Latin America
+Samoa,2016,110,137,80,Asia & Pacific
+Samoa,2015,113,140,82,Asia & Pacific
+Samoa,2014,115,143,84,Asia & Pacific
+Samoa,2013,118,147,86,Asia & Pacific
+Samoa,2012,124,154,90,Asia & Pacific
+Samoa,2011,127,158,93,Asia & Pacific
+Samoa,2010,134,166,98,Asia & Pacific
+Samoa,2009,164,202,121,Asia & Pacific
+Samoa,2008,139,172,102,Asia & Pacific
+Samoa,2007,144,178,106,Asia & Pacific
+Samoa,2006,149,185,110,Asia & Pacific
+Samoa,2005,157,194,116,Asia & Pacific
+Samoa,2004,161,199,119,Asia & Pacific
+Samoa,2003,169,209,125,Asia & Pacific
+Samoa,2002,175,215,130,Asia & Pacific
+Samoa,2001,176,217,131,Asia & Pacific
+Samoa,2000,180,222,134,Asia & Pacific
+Sao Tome and Principe,2016,191,221,161,Africa
+Sao Tome and Principe,2015,192,222,162,Africa
+Sao Tome and Principe,2014,193,223,163,Africa
+Sao Tome and Principe,2013,195,225,166,Africa
+Sao Tome and Principe,2012,198,230,168,Africa
+Sao Tome and Principe,2011,202,235,171,Africa
+Sao Tome and Principe,2010,205,238,174,Africa
+Sao Tome and Principe,2009,212,246,179,Africa
+Sao Tome and Principe,2008,217,252,184,Africa
+Sao Tome and Principe,2007,220,253,188,Africa
+Sao Tome and Principe,2006,223,256,192,Africa
+Sao Tome and Principe,2005,227,258,199,Africa
+Sao Tome and Principe,2004,229,260,201,Africa
+Sao Tome and Principe,2003,227,257,200,Africa
+Sao Tome and Principe,2002,225,256,198,Africa
+Sao Tome and Principe,2001,225,253,199,Africa
+Sao Tome and Principe,2000,227,254,202,Africa
+Saudi Arabia,2016,89,97,78,Middle east
+Saudi Arabia,2015,90,98,79,Middle east
+Saudi Arabia,2014,91,99,80,Middle east
+Saudi Arabia,2013,92,100,81,Middle east
+Saudi Arabia,2012,94,101,83,Middle east
+Saudi Arabia,2011,95,103,84,Middle east
+Saudi Arabia,2010,97,105,86,Middle east
+Saudi Arabia,2009,99,107,88,Middle east
+Saudi Arabia,2008,101,109,89,Middle east
+Saudi Arabia,2007,102,111,90,Middle east
+Saudi Arabia,2006,103,112,90,Middle east
+Saudi Arabia,2005,104,113,91,Middle east
+Saudi Arabia,2004,105,115,92,Middle east
+Saudi Arabia,2003,106,117,92,Middle east
+Saudi Arabia,2002,107,119,93,Middle east
+Saudi Arabia,2001,109,122,93,Middle east
+Saudi Arabia,2000,112,126,94,Middle east
+Senegal,2016,185,222,153,Africa
+Senegal,2015,189,225,157,Africa
+Senegal,2014,193,229,162,Africa
+Senegal,2013,196,232,165,Africa
+Senegal,2012,200,235,169,Africa
+Senegal,2011,204,238,175,Africa
+Senegal,2010,209,240,182,Africa
+Senegal,2009,215,244,190,Africa
+Senegal,2008,222,249,198,Africa
+Senegal,2007,234,260,212,Africa
+Senegal,2006,240,268,217,Africa
+Senegal,2005,244,274,218,Africa
+Senegal,2004,248,280,219,Africa
+Senegal,2003,250,284,220,Africa
+Senegal,2002,251,284,221,Africa
+Senegal,2001,251,282,222,Africa
+Senegal,2000,250,280,223,Africa
+Serbia,2016,103,135,70,Europe
+Serbia,2015,106,140,72,Europe
+Serbia,2014,106,140,72,Europe
+Serbia,2013,107,142,72,Europe
+Serbia,2012,111,147,75,Europe
+Serbia,2011,113,151,74,Europe
+Serbia,2010,115,154,76,Europe
+Serbia,2009,120,159,80,Europe
+Serbia,2008,122,163,81,Europe
+Serbia,2007,123,165,81,Europe
+Serbia,2006,126,167,84,Europe
+Serbia,2005,128,169,87,Europe
+Serbia,2004,129,171,85,Europe
+Serbia,2003,131,172,88,Europe
+Serbia,2002,131,173,88,Europe
+Serbia,2001,134,176,92,Europe
+Serbia,2000,141,185,95,Europe
+Seychelles,2016,163,233,90,Africa
+Seychelles,2015,166,236,91,Africa
+Seychelles,2014,168,238,92,Africa
+Seychelles,2013,171,241,93,Africa
+Seychelles,2012,174,244,94,Africa
+Seychelles,2011,177,247,96,Africa
+Seychelles,2010,181,251,97,Africa
+Seychelles,2009,183,254,98,Africa
+Seychelles,2008,185,256,100,Africa
+Seychelles,2007,185,257,100,Africa
+Seychelles,2006,185,256,101,Africa
+Seychelles,2005,185,255,102,Africa
+Seychelles,2004,186,256,104,Africa
+Seychelles,2003,185,254,103,Africa
+Seychelles,2002,185,255,104,Africa
+Seychelles,2001,187,256,105,Africa
+Seychelles,2000,188,259,106,Africa
+Sierra Leone,2016,389,394,383,Africa
+Sierra Leone,2015,404,410,397,Africa
+Sierra Leone,2014,446,454,439,Africa
+Sierra Leone,2013,393,394,392,Africa
+Sierra Leone,2012,395,395,395,Africa
+Sierra Leone,2011,403,404,403,Africa
+Sierra Leone,2010,415,417,412,Africa
+Sierra Leone,2009,429,433,425,Africa
+Sierra Leone,2008,442,448,436,Africa
+Sierra Leone,2007,453,462,445,Africa
+Sierra Leone,2006,467,478,456,Africa
+Sierra Leone,2005,482,496,468,Africa
+Sierra Leone,2004,496,513,478,Africa
+Sierra Leone,2003,506,525,487,Africa
+Sierra Leone,2002,513,532,494,Africa
+Sierra Leone,2001,520,536,504,Africa
+Sierra Leone,2000,533,548,519,Africa
+Singapore,2016,51,65,38,Asia & Pacific
+Singapore,2015,54,67,40,Asia & Pacific
+Singapore,2014,55,69,40,Asia & Pacific
+Singapore,2013,56,72,40,Asia & Pacific
+Singapore,2012,57,71,44,Asia & Pacific
+Singapore,2011,59,75,43,Asia & Pacific
+Singapore,2010,60,77,43,Asia & Pacific
+Singapore,2009,62,80,44,Asia & Pacific
+Singapore,2008,67,86,49,Asia & Pacific
+Singapore,2007,68,87,48,Asia & Pacific
+Singapore,2006,71,88,54,Asia & Pacific
+Singapore,2005,74,95,53,Asia & Pacific
+Singapore,2004,73,90,55,Asia & Pacific
+Singapore,2003,73,94,52,Asia & Pacific
+Singapore,2002,76,97,55,Asia & Pacific
+Singapore,2001,77,97,56,Asia & Pacific
+Singapore,2000,79,100,58,Asia & Pacific
+Slovakia,2016,104,147,61,Europe
+Slovakia,2015,107,150,62,Europe
+Slovakia,2014,109,155,62,Europe
+Slovakia,2013,111,156,65,Europe
+Slovakia,2012,115,164,66,Europe
+Slovakia,2011,120,171,68,Europe
+Slovakia,2010,122,175,68,Europe
+Slovakia,2009,130,185,74,Europe
+Slovakia,2008,135,196,73,Europe
+Slovakia,2007,139,199,79,Europe
+Slovakia,2006,138,198,76,Europe
+Slovakia,2005,140,202,77,Europe
+Slovakia,2004,137,196,78,Europe
+Slovakia,2003,143,207,78,Europe
+Slovakia,2002,144,209,78,Europe
+Slovakia,2001,145,208,81,Europe
+Slovakia,2000,147,214,79,Europe
+Slovenia,2016,72,97,45,Europe
+Slovenia,2015,74,101,45,Europe
+Slovenia,2014,70,94,44,Europe
+Slovenia,2013,78,105,48,Europe
+Slovenia,2012,81,110,51,Europe
+Slovenia,2011,82,110,51,Europe
+Slovenia,2010,87,120,52,Europe
+Slovenia,2009,91,125,54,Europe
+Slovenia,2008,96,135,55,Europe
+Slovenia,2007,102,142,59,Europe
+Slovenia,2006,107,152,58,Europe
+Slovenia,2005,104,142,64,Europe
+Slovenia,2004,113,153,71,Europe
+Slovenia,2003,119,166,68,Europe
+Slovenia,2002,117,162,68,Europe
+Slovenia,2001,123,170,73,Europe
+Slovenia,2000,122,167,74,Europe
+Solomon Islands,2016,146,164,126,Asia & Pacific
+Solomon Islands,2015,149,167,129,Asia & Pacific
+Solomon Islands,2014,156,175,136,Asia & Pacific
+Solomon Islands,2013,157,175,137,Asia & Pacific
+Solomon Islands,2012,160,178,141,Asia & Pacific
+Solomon Islands,2011,165,183,146,Asia & Pacific
+Solomon Islands,2010,170,188,151,Asia & Pacific
+Solomon Islands,2009,177,196,158,Asia & Pacific
+Solomon Islands,2008,181,199,162,Asia & Pacific
+Solomon Islands,2007,191,211,170,Asia & Pacific
+Solomon Islands,2006,192,212,173,Asia & Pacific
+Solomon Islands,2005,199,218,178,Asia & Pacific
+Solomon Islands,2004,205,225,184,Asia & Pacific
+Solomon Islands,2003,211,232,190,Asia & Pacific
+Solomon Islands,2002,218,238,197,Asia & Pacific
+Solomon Islands,2001,225,243,206,Asia & Pacific
+Solomon Islands,2000,232,249,215,Asia & Pacific
+Somalia,2016,316,349,282,Arab States
+Somalia,2015,307,334,280,Arab States
+Somalia,2014,311,338,284,Arab States
+Somalia,2013,313,339,287,Arab States
+Somalia,2012,329,361,295,Arab States
+Somalia,2011,328,357,297,Arab States
+Somalia,2010,335,367,302,Arab States
+Somalia,2009,335,365,304,Arab States
+Somalia,2008,338,367,307,Arab States
+Somalia,2007,342,372,311,Arab States
+Somalia,2006,341,368,312,Arab States
+Somalia,2005,339,363,312,Arab States
+Somalia,2004,345,371,316,Arab States
+Somalia,2003,347,373,318,Arab States
+Somalia,2002,351,378,321,Arab States
+Somalia,2001,354,381,325,Arab States
+Somalia,2000,358,384,329,Arab States
+South Africa,2016,301,359,246,Africa
+South Africa,2015,305,362,250,Africa
+South Africa,2014,316,377,258,Africa
+South Africa,2013,335,401,270,Africa
+South Africa,2012,361,426,298,Africa
+South Africa,2011,397,448,350,Africa
+South Africa,2010,416,462,375,Africa
+South Africa,2009,435,484,389,Africa
+South Africa,2008,458,500,420,Africa
+South Africa,2007,475,511,442,Africa
+South Africa,2006,477,512,446,Africa
+South Africa,2005,474,507,444,Africa
+South Africa,2004,459,496,426,Africa
+South Africa,2003,437,478,398,Africa
+South Africa,2002,412,458,369,Africa
+South Africa,2001,387,436,340,Africa
+South Africa,2000,362,414,311,Africa
+South Sudan,2016,321,335,308,Africa
+South Sudan,2015,328,340,316,Africa
+South Sudan,2014,343,360,327,Africa
+South Sudan,2013,343,358,329,Africa
+South Sudan,2012,341,354,328,Africa
+South Sudan,2011,349,362,335,Africa
+South Sudan,2010,354,366,342,Africa
+South Sudan,2009,368,381,355,Africa
+South Sudan,2008,377,391,364,Africa
+South Sudan,2007,382,397,368,Africa
+South Sudan,2006,384,400,369,Africa
+South Sudan,2005,385,401,369,Africa
+South Sudan,2004,384,401,367,Africa
+South Sudan,2003,383,401,365,Africa
+South Sudan,2002,382,401,363,Africa
+South Sudan,2001,380,400,360,Africa
+South Sudan,2000,380,401,358,Africa
+Spain,2016,56,74,38,Europe
+Spain,2015,58,77,39,Europe
+Spain,2014,58,77,38,Europe
+Spain,2013,59,79,39,Europe
+Spain,2012,61,82,39,Europe
+Spain,2011,63,85,41,Europe
+Spain,2010,65,88,40,Europe
+Spain,2009,67,91,42,Europe
+Spain,2008,70,97,43,Europe
+Spain,2007,72,101,43,Europe
+Spain,2006,73,103,43,Europe
+Spain,2005,76,107,44,Europe
+Spain,2004,79,110,46,Europe
+Spain,2003,82,115,48,Europe
+Spain,2002,82,116,47,Europe
+Spain,2001,83,117,48,Europe
+Spain,2000,84,120,48,Europe
+Sri Lanka,2016,131,191,73,Asia & Pacific
+Sri Lanka,2015,131,190,74,Asia & Pacific
+Sri Lanka,2014,131,189,74,Asia & Pacific
+Sri Lanka,2013,131,189,74,Asia & Pacific
+Sri Lanka,2012,131,189,74,Asia & Pacific
+Sri Lanka,2011,131,189,74,Asia & Pacific
+Sri Lanka,2010,131,190,74,Asia & Pacific
+Sri Lanka,2009,179,262,93,Asia & Pacific
+Sri Lanka,2008,171,249,90,Asia & Pacific
+Sri Lanka,2007,145,210,79,Asia & Pacific
+Sri Lanka,2006,145,209,80,Asia & Pacific
+Sri Lanka,2005,139,198,78,Asia & Pacific
+Sri Lanka,2004,197,268,123,Asia & Pacific
+Sri Lanka,2003,147,207,85,Asia & Pacific
+Sri Lanka,2002,150,210,87,Asia & Pacific
+Sri Lanka,2001,158,222,93,Asia & Pacific
+Sri Lanka,2000,171,238,99,Asia & Pacific
+Sudan,2016,224,253,195,Arab States
+Sudan,2015,227,256,197,Arab States
+Sudan,2014,229,258,200,Arab States
+Sudan,2013,232,261,203,Arab States
+Sudan,2012,236,265,206,Arab States
+Sudan,2011,241,272,210,Arab States
+Sudan,2010,243,273,213,Arab States
+Sudan,2009,248,279,217,Arab States
+Sudan,2008,250,280,220,Arab States
+Sudan,2007,253,283,223,Arab States
+Sudan,2006,260,291,228,Arab States
+Sudan,2005,261,292,230,Arab States
+Sudan,2004,278,316,239,Arab States
+Sudan,2003,278,314,241,Arab States
+Sudan,2002,276,309,242,Arab States
+Sudan,2001,282,317,247,Arab States
+Sudan,2000,284,317,250,Arab States
+Suriname,2016,180,224,135,Latin America
+Suriname,2015,182,227,136,Latin America
+Suriname,2014,184,226,139,Latin America
+Suriname,2013,186,232,137,Latin America
+Suriname,2012,188,238,136,Latin America
+Suriname,2011,191,242,137,Latin America
+Suriname,2010,194,246,139,Latin America
+Suriname,2009,197,249,142,Latin America
+Suriname,2008,200,251,146,Latin America
+Suriname,2007,200,251,147,Latin America
+Suriname,2006,203,254,149,Latin America
+Suriname,2005,207,261,150,Latin America
+Suriname,2004,216,269,160,Latin America
+Suriname,2003,222,274,168,Latin America
+Suriname,2002,225,273,175,Latin America
+Suriname,2001,224,270,177,Latin America
+Suriname,2000,222,267,175,Latin America
+Sweden,2016,52,64,40,Europe
+Sweden,2015,54,67,40,Europe
+Sweden,2014,55,67,43,Europe
+Sweden,2013,56,68,44,Europe
+Sweden,2012,56,68,44,Europe
+Sweden,2011,58,71,44,Europe
+Sweden,2010,58,72,43,Europe
+Sweden,2009,61,75,47,Europe
+Sweden,2008,62,76,48,Europe
+Sweden,2007,63,78,48,Europe
+Sweden,2006,64,78,50,Europe
+Sweden,2005,66,80,51,Europe
+Sweden,2004,70,85,54,Europe
+Sweden,2003,68,83,53,Europe
+Sweden,2002,70,85,54,Europe
+Sweden,2001,72,88,55,Europe
+Sweden,2000,72,87,56,Europe
+Switzerland,2016,49,62,36,Europe
+Switzerland,2015,50,62,37,Europe
+Switzerland,2014,50,63,37,Europe
+Switzerland,2013,53,67,39,Europe
+Switzerland,2012,54,67,40,Europe
+Switzerland,2011,54,68,40,Europe
+Switzerland,2010,57,71,43,Europe
+Switzerland,2009,59,76,42,Europe
+Switzerland,2008,59,75,43,Europe
+Switzerland,2007,62,78,46,Europe
+Switzerland,2006,64,81,47,Europe
+Switzerland,2005,66,85,46,Europe
+Switzerland,2004,68,88,47,Europe
+Switzerland,2003,71,92,51,Europe
+Switzerland,2002,73,93,53,Europe
+Switzerland,2001,75,96,52,Europe
+Switzerland,2000,78,100,54,Europe
+Syrian Arab Republic,2016,301,388,202,Asia & Pacific
+Syrian Arab Republic,2015,316,406,211,Asia & Pacific
+Syrian Arab Republic,2014,368,471,244,Asia & Pacific
+Syrian Arab Republic,2013,338,435,226,Asia & Pacific
+Syrian Arab Republic,2012,278,358,189,Asia & Pacific
+Syrian Arab Republic,2011,142,174,109,Asia & Pacific
+Syrian Arab Republic,2010,124,148,99,Asia & Pacific
+Syrian Arab Republic,2009,123,148,98,Asia & Pacific
+Syrian Arab Republic,2008,123,149,97,Asia & Pacific
+Syrian Arab Republic,2007,123,149,96,Asia & Pacific
+Syrian Arab Republic,2006,123,150,95,Asia & Pacific
+Syrian Arab Republic,2005,123,150,94,Asia & Pacific
+Syrian Arab Republic,2004,125,153,94,Asia & Pacific
+Syrian Arab Republic,2003,124,152,93,Asia & Pacific
+Syrian Arab Republic,2002,124,153,93,Asia & Pacific
+Syrian Arab Republic,2001,124,154,92,Asia & Pacific
+Syrian Arab Republic,2000,124,155,91,Asia & Pacific
+Tajikistan,2016,123,156,91,Asia & Pacific
+Tajikistan,2015,125,157,93,Asia & Pacific
+Tajikistan,2014,127,159,95,Asia & Pacific
+Tajikistan,2013,128,160,97,Asia & Pacific
+Tajikistan,2012,130,161,99,Asia & Pacific
+Tajikistan,2011,133,163,102,Asia & Pacific
+Tajikistan,2010,135,166,105,Asia & Pacific
+Tajikistan,2009,136,163,108,Asia & Pacific
+Tajikistan,2008,141,172,110,Asia & Pacific
+Tajikistan,2007,146,178,115,Asia & Pacific
+Tajikistan,2006,150,181,120,Asia & Pacific
+Tajikistan,2005,155,184,126,Asia & Pacific
+Tajikistan,2004,142,168,115,Asia & Pacific
+Tajikistan,2003,147,169,125,Asia & Pacific
+Tajikistan,2002,157,184,128,Asia & Pacific
+Tajikistan,2001,162,180,142,Asia & Pacific
+Tajikistan,2000,170,200,139,Asia & Pacific
+Thailand,2016,147,203,91,Asia & Pacific
+Thailand,2015,149,205,92,Asia & Pacific
+Thailand,2014,151,208,94,Asia & Pacific
+Thailand,2013,154,211,96,Asia & Pacific
+Thailand,2012,155,212,98,Asia & Pacific
+Thailand,2011,158,214,101,Asia & Pacific
+Thailand,2010,161,216,106,Asia & Pacific
+Thailand,2009,164,217,110,Asia & Pacific
+Thailand,2008,167,219,114,Asia & Pacific
+Thailand,2007,170,222,117,Asia & Pacific
+Thailand,2006,174,227,121,Asia & Pacific
+Thailand,2005,183,236,128,Asia & Pacific
+Thailand,2004,194,249,137,Asia & Pacific
+Thailand,2003,194,250,138,Asia & Pacific
+Thailand,2002,197,254,139,Asia & Pacific
+Thailand,2001,201,260,139,Asia & Pacific
+Thailand,2000,204,265,139,Asia & Pacific
+Timor-Leste,2016,150,176,122,Asia & Pacific
+Timor-Leste,2015,153,178,125,Asia & Pacific
+Timor-Leste,2014,155,180,129,Asia & Pacific
+Timor-Leste,2013,158,182,132,Asia & Pacific
+Timor-Leste,2012,159,182,135,Asia & Pacific
+Timor-Leste,2011,161,181,139,Asia & Pacific
+Timor-Leste,2010,163,179,145,Asia & Pacific
+Timor-Leste,2009,165,178,152,Asia & Pacific
+Timor-Leste,2008,168,177,160,Asia & Pacific
+Timor-Leste,2007,173,179,167,Asia & Pacific
+Timor-Leste,2006,186,194,178,Asia & Pacific
+Timor-Leste,2005,206,219,192,Asia & Pacific
+Timor-Leste,2004,229,250,208,Asia & Pacific
+Timor-Leste,2003,250,277,223,Asia & Pacific
+Timor-Leste,2002,261,288,234,Asia & Pacific
+Timor-Leste,2001,269,294,243,Asia & Pacific
+Timor-Leste,2000,276,299,251,Asia & Pacific
+Togo,2016,265,284,248,Africa
+Togo,2015,271,289,254,Africa
+Togo,2014,274,291,258,Africa
+Togo,2013,276,293,259,Africa
+Togo,2012,281,297,267,Africa
+Togo,2011,291,306,276,Africa
+Togo,2010,306,322,291,Africa
+Togo,2009,321,338,306,Africa
+Togo,2008,330,346,314,Africa
+Togo,2007,331,348,315,Africa
+Togo,2006,332,349,316,Africa
+Togo,2005,341,360,323,Africa
+Togo,2004,339,356,323,Africa
+Togo,2003,338,356,321,Africa
+Togo,2002,334,352,316,Africa
+Togo,2001,328,348,309,Africa
+Togo,2000,322,343,301,Africa
+Tonga,2016,133,167,100,Asia & Pacific
+Tonga,2015,135,169,102,Asia & Pacific
+Tonga,2014,136,170,103,Asia & Pacific
+Tonga,2013,138,172,104,Asia & Pacific
+Tonga,2012,139,174,106,Asia & Pacific
+Tonga,2011,141,175,107,Asia & Pacific
+Tonga,2010,142,177,109,Asia & Pacific
+Tonga,2009,147,182,113,Asia & Pacific
+Tonga,2008,145,179,112,Asia & Pacific
+Tonga,2007,146,180,114,Asia & Pacific
+Tonga,2006,148,181,116,Asia & Pacific
+Tonga,2005,150,183,119,Asia & Pacific
+Tonga,2004,151,184,122,Asia & Pacific
+Tonga,2003,153,184,124,Asia & Pacific
+Tonga,2002,155,184,127,Asia & Pacific
+Tonga,2001,157,184,131,Asia & Pacific
+Tonga,2000,158,184,134,Asia & Pacific
+Trinidad and Tobago,2016,172,222,119,Latin America
+Trinidad and Tobago,2015,173,222,121,Latin America
+Trinidad and Tobago,2014,174,223,123,Latin America
+Trinidad and Tobago,2013,177,226,125,Latin America
+Trinidad and Tobago,2012,179,228,126,Latin America
+Trinidad and Tobago,2011,180,229,129,Latin America
+Trinidad and Tobago,2010,179,226,129,Latin America
+Trinidad and Tobago,2009,185,232,134,Latin America
+Trinidad and Tobago,2008,195,248,139,Latin America
+Trinidad and Tobago,2007,188,236,137,Latin America
+Trinidad and Tobago,2006,189,234,140,Latin America
+Trinidad and Tobago,2005,195,244,142,Latin America
+Trinidad and Tobago,2004,196,240,149,Latin America
+Trinidad and Tobago,2003,199,245,151,Latin America
+Trinidad and Tobago,2002,195,242,145,Latin America
+Trinidad and Tobago,2001,204,253,153,Latin America
+Trinidad and Tobago,2000,202,248,153,Latin America
+Tunisia,2016,91,111,71,Arab States
+Tunisia,2015,93,113,73,Arab States
+Tunisia,2014,94,115,74,Arab States
+Tunisia,2013,95,116,74,Arab States
+Tunisia,2012,96,118,74,Arab States
+Tunisia,2011,98,121,74,Arab States
+Tunisia,2010,99,124,74,Arab States
+Tunisia,2009,101,127,75,Arab States
+Tunisia,2008,102,129,75,Arab States
+Tunisia,2007,103,131,75,Arab States
+Tunisia,2006,104,132,76,Arab States
+Tunisia,2005,105,133,77,Arab States
+Tunisia,2004,106,133,78,Arab States
+Tunisia,2003,107,134,80,Arab States
+Tunisia,2002,108,136,81,Arab States
+Tunisia,2001,110,138,82,Arab States
+Tunisia,2000,111,140,83,Arab States
+Türkiye,2016,104,138,71,Europe
+Türkiye,2015,106,141,72,Europe
+Türkiye,2014,107,142,74,Europe
+Türkiye,2013,109,145,75,Europe
+Türkiye,2012,112,149,77,Europe
+Türkiye,2011,114,153,78,Europe
+Türkiye,2010,116,155,79,Europe
+Türkiye,2009,118,159,80,Europe
+Türkiye,2008,121,163,82,Europe
+Türkiye,2007,124,166,83,Europe
+Türkiye,2006,126,168,86,Europe
+Türkiye,2005,129,171,89,Europe
+Türkiye,2004,132,173,92,Europe
+Türkiye,2003,134,176,94,Europe
+Türkiye,2002,137,180,96,Europe
+Türkiye,2001,140,184,98,Europe
+Türkiye,2000,144,189,100,Europe
+Turkmenistan,2016,191,253,131,Asia & Pacific
+Turkmenistan,2015,198,262,136,Asia & Pacific
+Turkmenistan,2014,199,265,135,Asia & Pacific
+Turkmenistan,2013,196,260,134,Asia & Pacific
+Turkmenistan,2012,189,246,135,Asia & Pacific
+Turkmenistan,2011,190,248,134,Asia & Pacific
+Turkmenistan,2010,188,250,129,Asia & Pacific
+Turkmenistan,2009,196,261,135,Asia & Pacific
+Turkmenistan,2008,219,290,150,Asia & Pacific
+Turkmenistan,2007,226,301,153,Asia & Pacific
+Turkmenistan,2006,231,303,159,Asia & Pacific
+Turkmenistan,2005,234,309,158,Asia & Pacific
+Turkmenistan,2004,224,297,151,Asia & Pacific
+Turkmenistan,2003,218,288,146,Asia & Pacific
+Turkmenistan,2002,216,281,151,Asia & Pacific
+Turkmenistan,2001,210,274,145,Asia & Pacific
+Turkmenistan,2000,215,281,148,Asia & Pacific
+Uganda,2016,288,333,243,Africa
+Uganda,2015,293,341,246,Africa
+Uganda,2014,304,356,253,Africa
+Uganda,2013,316,359,276,Africa
+Uganda,2012,335,362,311,Africa
+Uganda,2011,348,373,326,Africa
+Uganda,2010,364,389,342,Africa
+Uganda,2009,383,409,361,Africa
+Uganda,2008,407,432,386,Africa
+Uganda,2007,416,442,394,Africa
+Uganda,2006,418,446,394,Africa
+Uganda,2005,448,479,422,Africa
+Uganda,2004,480,513,451,Africa
+Uganda,2003,494,527,465,Africa
+Uganda,2002,510,545,479,Africa
+Uganda,2001,523,557,492,Africa
+Uganda,2000,536,573,503,Africa
+Ukraine,2016,180,264,98,Europe
+Ukraine,2015,188,276,102,Europe
+Ukraine,2014,212,312,113,Europe
+Ukraine,2013,207,303,113,Europe
+Ukraine,2012,211,308,117,Europe
+Ukraine,2011,209,305,115,Europe
+Ukraine,2010,218,317,121,Europe
+Ukraine,2009,235,341,131,Europe
+Ukraine,2008,275,398,149,Europe
+Ukraine,2007,278,401,150,Europe
+Ukraine,2006,268,387,146,Europe
+Ukraine,2005,280,402,152,Europe
+Ukraine,2004,269,387,145,Europe
+Ukraine,2003,258,372,140,Europe
+Ukraine,2002,257,372,138,Europe
+Ukraine,2001,254,368,136,Europe
+Ukraine,2000,258,374,137,Europe
+United Arab Emirates,2016,74,80,56,Middle east
+United Arab Emirates,2015,75,81,57,Middle east
+United Arab Emirates,2014,76,82,58,Middle east
+United Arab Emirates,2013,78,84,59,Middle east
+United Arab Emirates,2012,79,85,60,Middle east
+United Arab Emirates,2011,80,86,61,Middle east
+United Arab Emirates,2010,81,88,61,Middle east
+United Arab Emirates,2009,83,89,62,Middle east
+United Arab Emirates,2008,85,91,64,Middle east
+United Arab Emirates,2007,86,93,65,Middle east
+United Arab Emirates,2006,88,95,68,Middle east
+United Arab Emirates,2005,91,98,71,Middle east
+United Arab Emirates,2004,94,101,75,Middle east
+United Arab Emirates,2003,98,105,79,Middle east
+United Arab Emirates,2002,101,108,82,Middle east
+United Arab Emirates,2001,104,110,85,Middle east
+United Arab Emirates,2000,107,113,88,Middle east
+United Kingdom of Great Britain and Northern Ireland,2016,67,81,52,Europe
+United Kingdom of Great Britain and Northern Ireland,2015,69,84,54,Europe
+United Kingdom of Great Britain and Northern Ireland,2014,68,83,53,Europe
+United Kingdom of Great Britain and Northern Ireland,2013,69,84,53,Europe
+United Kingdom of Great Britain and Northern Ireland,2012,69,83,54,Europe
+United Kingdom of Great Britain and Northern Ireland,2011,71,87,55,Europe
+United Kingdom of Great Britain and Northern Ireland,2010,74,91,57,Europe
+United Kingdom of Great Britain and Northern Ireland,2009,76,94,58,Europe
+United Kingdom of Great Britain and Northern Ireland,2008,78,96,60,Europe
+United Kingdom of Great Britain and Northern Ireland,2007,79,98,60,Europe
+United Kingdom of Great Britain and Northern Ireland,2006,81,100,61,Europe
+United Kingdom of Great Britain and Northern Ireland,2005,81,100,62,Europe
+United Kingdom of Great Britain and Northern Ireland,2004,82,102,63,Europe
+United Kingdom of Great Britain and Northern Ireland,2003,86,106,65,Europe
+United Kingdom of Great Britain and Northern Ireland,2002,87,108,66,Europe
+United Kingdom of Great Britain and Northern Ireland,2001,88,109,67,Europe
+United Kingdom of Great Britain and Northern Ireland,2000,88,108,68,Europe
+United Republic of Tanzania,2016,261,299,222,Africa
+United Republic of Tanzania,2015,270,311,228,Africa
+United Republic of Tanzania,2014,282,324,239,Africa
+United Republic of Tanzania,2013,298,339,257,Africa
+United Republic of Tanzania,2012,325,364,288,Africa
+United Republic of Tanzania,2011,328,362,295,Africa
+United Republic of Tanzania,2010,343,367,320,Africa
+United Republic of Tanzania,2009,357,380,335,Africa
+United Republic of Tanzania,2008,367,392,344,Africa
+United Republic of Tanzania,2007,401,424,379,Africa
+United Republic of Tanzania,2006,427,451,406,Africa
+United Republic of Tanzania,2005,441,467,417,Africa
+United Republic of Tanzania,2004,448,476,422,Africa
+United Republic of Tanzania,2003,453,484,423,Africa
+United Republic of Tanzania,2002,456,490,424,Africa
+United Republic of Tanzania,2001,458,494,424,Africa
+United Republic of Tanzania,2000,458,496,422,Africa
+United States of America,2016,114,142,86,North America
+United States of America,2015,110,137,83,North America
+United States of America,2014,106,131,81,North America
+United States of America,2013,105,131,79,North America
+United States of America,2012,105,131,79,North America
+United States of America,2011,106,132,79,North America
+United States of America,2010,105,132,78,North America
+United States of America,2009,108,135,80,North America
+United States of America,2008,108,137,80,North America
+United States of America,2007,110,139,81,North America
+United States of America,2006,113,142,82,North America
+United States of America,2005,112,142,82,North America
+United States of America,2004,111,140,82,North America
+United States of America,2003,114,144,84,North America
+United States of America,2002,115,145,84,North America
+United States of America,2001,116,146,85,North America
+United States of America,2000,114,145,84,North America
+Uruguay,2016,114,149,79,Latin America
+Uruguay,2015,114,149,80,Latin America
+Uruguay,2014,114,150,79,Latin America
+Uruguay,2013,117,155,79,Latin America
+Uruguay,2012,118,156,81,Latin America
+Uruguay,2011,117,155,81,Latin America
+Uruguay,2010,118,156,80,Latin America
+Uruguay,2009,118,157,80,Latin America
+Uruguay,2008,119,156,82,Latin America
+Uruguay,2007,124,165,85,Latin America
+Uruguay,2006,118,157,80,Latin America
+Uruguay,2005,125,163,87,Latin America
+Uruguay,2004,125,164,88,Latin America
+Uruguay,2003,125,165,87,Latin America
+Uruguay,2002,129,171,88,Latin America
+Uruguay,2001,127,168,87,Latin America
+Uruguay,2000,134,180,89,Latin America
+Uzbekistan,2016,131,167,96,Asia & Pacific
+Uzbekistan,2015,133,170,98,Asia & Pacific
+Uzbekistan,2014,139,177,102,Asia & Pacific
+Uzbekistan,2013,141,179,104,Asia & Pacific
+Uzbekistan,2012,145,184,107,Asia & Pacific
+Uzbekistan,2011,144,182,107,Asia & Pacific
+Uzbekistan,2010,145,182,108,Asia & Pacific
+Uzbekistan,2009,149,187,112,Asia & Pacific
+Uzbekistan,2008,157,197,117,Asia & Pacific
+Uzbekistan,2007,165,208,124,Asia & Pacific
+Uzbekistan,2006,174,219,130,Asia & Pacific
+Uzbekistan,2005,183,230,137,Asia & Pacific
+Uzbekistan,2004,174,218,131,Asia & Pacific
+Uzbekistan,2003,173,217,129,Asia & Pacific
+Uzbekistan,2002,176,220,132,Asia & Pacific
+Uzbekistan,2001,177,223,130,Asia & Pacific
+Uzbekistan,2000,183,230,135,Asia & Pacific
+Vanuatu,2016,129,155,104,Asia & Pacific
+Vanuatu,2015,132,157,106,Asia & Pacific
+Vanuatu,2014,136,162,110,Asia & Pacific
+Vanuatu,2013,137,162,111,Asia & Pacific
+Vanuatu,2012,139,165,114,Asia & Pacific
+Vanuatu,2011,142,167,117,Asia & Pacific
+Vanuatu,2010,146,170,120,Asia & Pacific
+Vanuatu,2009,149,174,124,Asia & Pacific
+Vanuatu,2008,153,177,128,Asia & Pacific
+Vanuatu,2007,156,180,131,Asia & Pacific
+Vanuatu,2006,160,184,135,Asia & Pacific
+Vanuatu,2005,164,187,139,Asia & Pacific
+Vanuatu,2004,168,191,143,Asia & Pacific
+Vanuatu,2003,172,194,146,Asia & Pacific
+Vanuatu,2002,176,198,150,Asia & Pacific
+Vanuatu,2001,180,203,155,Asia & Pacific
+Vanuatu,2000,184,207,159,Asia & Pacific
+Venezuela (Bolivarian Republic of),2016,157,217,93,Latin America
+Venezuela (Bolivarian Republic of),2015,158,219,94,Latin America
+Venezuela (Bolivarian Republic of),2014,159,220,95,Latin America
+Venezuela (Bolivarian Republic of),2013,159,219,96,Latin America
+Venezuela (Bolivarian Republic of),2012,163,225,97,Latin America
+Venezuela (Bolivarian Republic of),2011,160,219,98,Latin America
+Venezuela (Bolivarian Republic of),2010,162,220,99,Latin America
+Venezuela (Bolivarian Republic of),2009,170,235,101,Latin America
+Venezuela (Bolivarian Republic of),2008,173,238,102,Latin America
+Venezuela (Bolivarian Republic of),2007,170,234,101,Latin America
+Venezuela (Bolivarian Republic of),2006,168,228,104,Latin America
+Venezuela (Bolivarian Republic of),2005,164,220,105,Latin America
+Venezuela (Bolivarian Republic of),2004,168,227,106,Latin America
+Venezuela (Bolivarian Republic of),2003,180,241,114,Latin America
+Venezuela (Bolivarian Republic of),2002,175,229,117,Latin America
+Venezuela (Bolivarian Republic of),2001,175,234,111,Latin America
+Venezuela (Bolivarian Republic of),2000,173,230,111,Latin America
+Viet Nam,2016,125,182,66,Asia & Pacific
+Viet Nam,2015,126,184,67,Asia & Pacific
+Viet Nam,2014,128,186,68,Asia & Pacific
+Viet Nam,2013,129,189,68,Asia & Pacific
+Viet Nam,2012,130,190,69,Asia & Pacific
+Viet Nam,2011,131,192,70,Asia & Pacific
+Viet Nam,2010,132,194,70,Asia & Pacific
+Viet Nam,2009,133,196,70,Asia & Pacific
+Viet Nam,2008,135,199,70,Asia & Pacific
+Viet Nam,2007,136,201,71,Asia & Pacific
+Viet Nam,2006,137,201,72,Asia & Pacific
+Viet Nam,2005,137,201,73,Asia & Pacific
+Viet Nam,2004,137,200,74,Asia & Pacific
+Viet Nam,2003,137,199,75,Asia & Pacific
+Viet Nam,2002,137,198,76,Asia & Pacific
+Viet Nam,2001,138,199,77,Asia & Pacific
+Viet Nam,2000,139,200,79,Asia & Pacific
+Yemen,2016,221,244,199,Middle east
+Yemen,2015,240,269,211,Middle east
+Yemen,2014,226,248,204,Middle east
+Yemen,2013,225,246,204,Middle east
+Yemen,2012,234,259,209,Middle east
+Yemen,2011,234,257,211,Middle east
+Yemen,2010,234,256,212,Middle east
+Yemen,2009,236,258,215,Middle east
+Yemen,2008,239,261,217,Middle east
+Yemen,2007,241,263,219,Middle east
+Yemen,2006,243,266,221,Middle east
+Yemen,2005,246,268,223,Middle east
+Yemen,2004,248,270,225,Middle east
+Yemen,2003,249,272,226,Middle east
+Yemen,2002,250,273,227,Middle east
+Yemen,2001,251,273,228,Middle east
+Yemen,2000,251,273,229,Middle east
+Zambia,2016,286,324,250,Africa
+Zambia,2015,295,330,261,Africa
+Zambia,2014,299,334,266,Africa
+Zambia,2013,311,347,277,Africa
+Zambia,2012,325,364,290,Africa
+Zambia,2011,342,382,304,Africa
+Zambia,2010,364,403,327,Africa
+Zambia,2009,396,434,361,Africa
+Zambia,2008,439,471,411,Africa
+Zambia,2007,500,527,477,Africa
+Zambia,2006,532,557,511,Africa
+Zambia,2005,556,581,536,Africa
+Zambia,2004,575,599,555,Africa
+Zambia,2003,593,616,574,Africa
+Zambia,2002,594,619,572,Africa
+Zambia,2001,594,622,569,Africa
+Zambia,2000,594,625,566,Africa
+Zimbabwe,2016,334,371,303,Africa
+Zimbabwe,2015,346,383,314,Africa
+Zimbabwe,2014,358,395,328,Africa
+Zimbabwe,2013,383,437,336,Africa
+Zimbabwe,2012,407,464,357,Africa
+Zimbabwe,2011,440,488,399,Africa
+Zimbabwe,2010,500,534,474,Africa
+Zimbabwe,2009,554,586,530,Africa
+Zimbabwe,2008,596,630,570,Africa
+Zimbabwe,2007,631,664,604,Africa
+Zimbabwe,2006,660,693,633,Africa
+Zimbabwe,2005,681,713,656,Africa
+Zimbabwe,2004,694,725,670,Africa
+Zimbabwe,2003,697,728,671,Africa
+Zimbabwe,2002,695,728,667,Africa
+Zimbabwe,2001,688,723,656,Africa
+Zimbabwe,2000,675,715,640,Africa
